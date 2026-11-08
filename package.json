@@ -1,0 +1,18 @@
+{
+  "name": "on-tap-tmdt-cse703102",
+  "version": "1.0.0",
+  "description": "Góc ôn tập Thương mại điện tử · CSE703102 · Phenikaa University (300 câu trắc nghiệm + 60 câu tự luận)",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "tmdt",
+    "cse703102",
+    "phenikaa",
+    "quiz"
+  ],
+  "author": "",
+  "license": "MIT"
+}

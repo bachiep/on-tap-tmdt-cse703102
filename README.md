@@ -59,6 +59,13 @@ Hệ thống ôn thi tương tác toàn diện môn **Thương mại điện t�
 
 ---
 
+## 🌐 Đường dẫn trực tuyến (Live Demo)
+
+- **GitHub Pages (Chính thức)**: [https://bachiep.github.io/on-tap-tmdt-cse703102/](https://bachiep.github.io/on-tap-tmdt-cse703102/)
+- **Kho mã nguồn GitHub**: [https://github.com/bachiep/on-tap-tmdt-cse703102](https://github.com/bachiep/on-tap-tmdt-cse703102)
+
+---
+
 ## 🚀 Hướng dẫn chạy thử nghiệm tại máy (Local)
 
 - Bấm đúp vào file [`MO_WEB.bat`](file:///e:/Dowloads/TMDT/MO_WEB.bat) trong thư mục này.

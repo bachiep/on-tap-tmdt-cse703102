@@ -1,0 +1,928 @@
+================================================================================
+         FILE TRA CỨU NHANH 60 CÂU HỎI TỰ LUẬN & 26 CÔNG THỨC TMĐT
+                   Học phần: Thương mại điện tử (CSE703102)
+================================================================================
+CÁCH DÙNG NHANH:
+- Bấm Ctrl + F gõ 1-2 từ trong đề thi để tìm ngay Số Câu (Câu 1 -> Câu 60).
+- Hoặc tra PHẦN 1 (Danh sách 60 câu hỏi rút gọn) & PHẦN 2 (Tra theo Từ khóa)
+  để biết câu trong đề thi là CÂU SỐ MẤY, nằm ở TRANG MẤY trong bộ phao A4.
+================================================================================
+
+================================================================================
+PHẦN 1: DANH SÁCH 60 CÂU HỎI ĐỀ BÀI (TRA SỐ THỨ TỰ CÂU & VỊ TRÍ TRANG PHAO A4)
+================================================================================
+
+--- BUỔI 1: TỔNG QUAN THƯƠNG MẠI ĐIỆN TỬ ---
+[Câu 01 | LT | Phao Trang 1 (Hàng 1, Cột 1)]
+  Đề: Phân biệt định nghĩa thương mại điện tử theo nghĩa hẹp và nghĩa rộng. Vì sao sự phân biệt này có ý nghĩa khi đo lường quy mô thị trường? Lấy một ví dụ phân định phổ biến ở Việt Nam.
+
+[Câu 02 | LT | Phao Trang 1 (Hàng 1, Cột 2)]
+  Đề: Trình bày bốn trong tám đặc trưng công nghệ của thương mại điện tử. Với mỗi đặc trưng, chỉ ra hệ quả kinh doanh (không chỉ mô tả kỹ thuật).
+
+[Câu 03 | VD | Phao Trang 1 (Hàng 1, Cột 3)]
+  Đề: So sánh giao dịch B2B và B2C theo năm chiều: giá trị và tần suất, người quyết định, cơ chế giá, thanh toán, yếu tố quyết định mua. Từ đó suy ra những chức năng mà hệ thống B2B bắt buộc phải có nhưng B2C không cần.
+
+[Câu 04 | VD | Phao Trang 1 (Hàng 2, Cột 1)]
+  Đề: Một hợp tác xã nông sản ở vùng núi muốn bán sản phẩm trực tuyến ra toàn quốc. Sử dụng sơ đồ bốn nhóm hạ tầng theo thứ tự phụ thuộc để xác định điểm nghẽn có khả năng nhất và đề xuất hướng xử lý.
+
+--- BUỔI 2: MÔ HÌNH KINH DOANH THƯƠNG MẠI ĐIỆN TỬ ---
+[Câu 05 | LT | Phao Trang 1 (Hàng 2, Cột 2)]
+  Đề: Trình bày tám thành phần của một mô hình kinh doanh thương mại điện tử. Vì sao đề xuất giá trị phải được xác định trước mô hình doanh thu?
+
+[Câu 06 | LT | Phao Trang 1 (Hàng 2, Cột 3)]
+  Đề: Trình bày năm mô hình doanh thu trong thương mại điện tử. Với mỗi mô hình, nêu điều kiện để mô hình hoạt động được và một dấu hiệu cho thấy điều kiện đó không được thoả mãn.
+
+[Câu 07 | VD | Phao Trang 2 (Hàng 1, Cột 1)]
+  Đề: Một sàn thương mại điện tử và một nhà bán lẻ điện tử cùng bán hàng cho người tiêu dùng. Phân tích khác biệt về mô hình doanh thu, cấu trúc chi phí và rủi ro của hai mô hình; nêu điểm chung.
+
+[Câu 08 | VD | Phao Trang 2 (Hàng 1, Cột 2)]
+  Đề: Một doanh nghiệp đang chỉ bán qua sàn, cân nhắc mở thêm website riêng. Phân tích lợi ích, rủi ro và điều kiện vận hành bắt buộc của mô hình đa kênh.
+
+--- BUỔI 3: HẠ TẦNG CÔNG NGHỆ THƯƠNG MẠI ĐIỆN TỬ ---
+[Câu 09 | LT | Phao Trang 2 (Hàng 1, Cột 3)]
+  Đề: Trình bày kiến trúc phân tầng TCP/IP và vai trò của từng tầng đối với một giao dịch thương mại điện tử. Vì sao chuyển mạch gói phù hợp với Internet hơn chuyển mạch kênh?
+
+[Câu 10 | LT | Phao Trang 2 (Hàng 2, Cột 1)]
+  Đề: Giải thích cơ chế phân giải tên miền (DNS) và vai trò các bản ghi A/AAAA, CNAME, MX, TXT, TTL. Vì sao phải giảm TTL trước khi chuyển website sang máy chủ mới?
+
+[Câu 11 | VD | Phao Trang 2 (Hàng 2, Cột 2)]
+  Đề: So sánh cơ sở dữ liệu quan hệ và phi quan hệ. Thiết kế lược đồ tối thiểu cho cửa hàng trực tuyến và giải thích vì sao bảng chi tiết dòng đơn hàng phải lưu tên và đơn giá tại thời điểm mua.
+
+[Câu 12 | VD | Phao Trang 2 (Hàng 2, Cột 3)]
+  Đề: Một cửa hàng nhỏ (đội phát triển 3 người) vừa cân nhắc chuyển sang kiến trúc dịch vụ nhỏ, vừa lo website sập vào ngày siêu khuyến mại. Hãy tư vấn về lựa chọn kiến trúc và đề xuất bốn biện pháp kỹ thuật – vận hành để chịu đỉnh tải.
+
+--- BUỔI 4: HỆ THỐNG THANH TOÁN ĐIỆN TỬ ---
+[Câu 13 | LT | Phao Trang 3 (Hàng 1, Cột 1)]
+  Đề: Mô tả năm nhóm chủ thể trong một giao dịch thanh toán thẻ. Phân biệt vai trò của cổng thanh toán, tổ chức chuyển mạch và ngân hàng phát hành; phân biệt cấp phép và quyết toán.
+
+[Câu 14 | LT | Phao Trang 3 (Hàng 1, Cột 2)]
+  Đề: Trình bày vòng đời giao dịch thẻ và mô hình đối soát ba nguồn. Nêu ba trạng thái lệch thường gặp, nguyên nhân và hướng xử lý. Vì sao không được xác nhận thanh toán dựa vào phản hồi trình duyệt?
+
+[Câu 15 | VD | Phao Trang 3 (Hàng 1, Cột 3)]
+  Đề: Giả định biểu phí minh hoạ của một cổng thanh toán là 2.000 đồng/giao dịch + 1,5% giá trị đơn; tỷ lệ lợi nhuận gộp 25%. Tính phí và tỷ trọng phí trên lợi nhuận gộp cho ba mức đơn 150.000 đồng, 450.000 đồng và 1.500.000 đồng. Rút ra kết luận về lựa chọn phương thức thanh toán cho đơn giá trị nhỏ.
+
+[Câu 16 | VD | Phao Trang 3 (Hàng 2, Cột 1)]
+  Đề: Thiết kế ba quy tắc chấm điểm rủi ro tối thiểu cho một cửa hàng trực tuyến mới và mô tả quy trình bốn bước xử lý khi phát hiện dấu hiệu gian lận.
+
+--- BUỔI 5: MARKETING ĐIỆN TỬ: NỀN TẢNG VÀ CHIẾN LƯỢC ---
+[Câu 17 | VD | Phao Trang 3 (Hàng 2, Cột 2)]
+  Đề: Trình bày bốn nhóm tiêu chí phân khúc và bốn điều kiện của một phân khúc dùng được. Vì sao phân khúc theo hành vi có giá trị dự báo cao nhất? Viết phát biểu định vị cho một cửa hàng trực tuyến do anh/chị tự chọn và tự kiểm tra chất lượng phát biểu đó.
+
+[Câu 18 | VD | Phao Trang 3 (Hàng 2, Cột 3)]
+  Đề: Phễu của một cửa hàng: 10.000 phiên → 4.200 xem sản phẩm → 1.100 thêm giỏ → 620 bắt đầu thanh toán → 280 hoàn tất. (a) Tính tỷ lệ chuyển tiếp từng bước và tỷ lệ chuyển đổi toàn phễu. (b) So sánh hai phương án: A — nâng bước xem sản phẩm → thêm giỏ từ 26% lên 30%; B — nâng bước thanh toán → hoàn tất từ 45% lên 55%. Chọn điểm can thiệp và giải thích nguyên tắc.
+
+[Câu 19 | LT | Phao Trang 4 (Hàng 1, Cột 1)]
+  Đề: Giải thích chuỗi bốn bước hoạt động của công cụ tìm kiếm và ba trụ cột tối ưu công cụ tìm kiếm. Nêu điểm yếu đặc thù của website thương mại điện tử về nội dung trùng lặp và ba biện pháp kiểm soát.
+
+[Câu 20 | VD | Phao Trang 4 (Hàng 1, Cột 2)]
+  Đề: Một cửa hàng có đơn trung bình 450.000 đồng, khách mua trung bình 3 đơn/năm, gắn bó 2 năm, tỷ lệ lợi nhuận gộp 30%; 60% doanh thu đến từ 15% khách hàng. (a) Tính giá trị vòng đời và ngưỡng chi thu hút. (b) Phân tích đòn bẩy của giữ chân. (c) Đề xuất chiến lược cho hai nhóm khách hàng.
+
+--- BUỔI 6: QUẢNG CÁO SỐ, THƯƠNG MẠI XÃ HỘI VÀ ĐO LƯỜNG ---
+[Câu 21 | VD | Phao Trang 4 (Hàng 1, Cột 3)]
+  Đề: Một chiến dịch chi 24 triệu đồng, đạt 400.000 lượt hiển thị, 6.000 lượt nhấp, 120 đơn hàng, doanh thu 84 triệu đồng; tỷ lệ lợi nhuận gộp 25%. Tính CPM, CTR, CPC, CVR, CPA, ROAS, ngưỡng ROAS hoà vốn; kết luận về sinh lời và xác định tỷ lệ chuyển đổi cần đạt để hoà vốn.
+
+[Câu 22 | LT | Phao Trang 4 (Hàng 2, Cột 1)]
+  Đề: Giải thích nguyên lý đấu giá quảng cáo (xếp hạng = giá thầu × điểm chất lượng). Vì sao cải thiện trang đích là biện pháp giảm chi phí quảng cáo hiệu quả nhưng thường bị bỏ qua?
+
+[Câu 23 | LT | Phao Trang 4 (Hàng 2, Cột 2)]
+  Đề: Trình bày bốn mô hình quy kết chuyển đổi. Vì sao dùng mô hình tương tác cuối làm cơ sở phân bổ ngân sách gây rủi ro tự khuếch đại? Nêu cách kiểm chứng độc lập.
+
+[Câu 24 | VD | Phao Trang 4 (Hàng 2, Cột 3)]
+  Đề: Phân tích cơ chế tạo giá trị của thương mại xã hội và bán hàng qua phát trực tiếp so với phễu website truyền thống. Nêu nghĩa vụ tuân thủ của nền tảng và của người bán, người quảng bá theo khung pháp lý hiện hành.
+
+--- BUỔI 7: AN TOÀN VÀ BẢO MẬT TRONG THƯƠNG MẠI ĐIỆN TỬ ---
+[Câu 25 | LT | Phao Trang 5 (Hàng 1, Cột 1)]
+  Đề: Phân biệt tính bí mật và tính riêng tư. Nêu một ví dụ hệ thống bảo đảm tốt tính bí mật nhưng vẫn vi phạm tính riêng tư và chỉ ra căn cứ pháp lý liên quan.
+
+[Câu 26 | LT | Phao Trang 5 (Hàng 1, Cột 2)]
+  Đề: Vì sao thực tế phải dùng mô hình mật mã lai thay vì chỉ một loại mã hoá? Mô tả các bước bắt tay TLS và nêu giới hạn của chứng thư số.
+
+[Câu 27 | LT | Phao Trang 5 (Hàng 1, Cột 3)]
+  Đề: Mô tả cơ chế tạo và kiểm tra chữ ký số. Giải thích vì sao chữ ký số đồng thời bảo đảm tính toàn vẹn, tính xác thực và chống phủ nhận, và nêu giá trị pháp lý của chữ ký số tại Việt Nam.
+
+[Câu 28 | VD | Phao Trang 5 (Hàng 2, Cột 1)]
+  Đề: Một cửa hàng trực tuyến phát hiện máy chủ bị xâm nhập. Trình bày quy trình ứng phó sự cố bốn giai đoạn, giải thích vì sao phải lưu bằng chứng trước khi khởi động lại hệ thống, và nêu vai trò của hai chỉ số thời gian phục hồi mục tiêu và điểm phục hồi mục tiêu.
+
+--- BUỔI 8: PHÁP LUẬT VÀ ĐẠO ĐỨC TRONG THƯƠNG MẠI ĐIỆN TỬ ---
+[Câu 29 | LT | Phao Trang 5 (Hàng 2, Cột 2)]
+  Đề: Trình bày hệ thống văn bản pháp luật đang có hiệu lực điều chỉnh thương mại điện tử tại Việt Nam (số hiệu, thời điểm hiệu lực, nội dung chính). Vì sao phải kiểm tra hiệu lực trước khi trích dẫn?
+
+[Câu 30 | LT | Phao Trang 5 (Hàng 2, Cột 3)]
+  Đề: Vì sao Luật Thương mại điện tử 2025 đặt nghĩa vụ giám sát lên nền tảng thay vì lên từng người bán? Phân tích tác động của thay đổi này tới nền tảng, người bán nhỏ và người tiêu dùng.
+
+[Câu 31 | VD | Phao Trang 6 (Hàng 1, Cột 1)]
+  Đề: Biểu mẫu đặt hàng của một cửa hàng thu: họ tên, điện thoại, địa chỉ, thư điện tử, ngày sinh, giới tính; ô “đồng ý nhận quảng cáo” được đánh dấu sẵn và gộp với ô đồng ý điều khoản mua. Phân tích theo sáu nguyên tắc bảo vệ dữ liệu cá nhân và đề xuất thiết kế lại.
+
+[Câu 32 | VD | Phao Trang 6 (Hàng 1, Cột 2)]
+  Đề: Website niêm yết nhầm giá một máy tính xách tay là 1.990.000 đồng thay vì 19.900.000 đồng; khách đã đặt hàng. Phân tích nghĩa vụ của bên bán theo các phương án xác định thời điểm hình thành hợp đồng điện tử. Doanh nghiệp nên quy định gì trong điều khoản bán hàng và nên dùng loại chữ ký nào cho hợp đồng, hoá đơn?
+
+--- BUỔI 9: THIẾT KẾ VÀ PHÁT TRIỂN WEBSITE THƯƠNG MẠI ĐIỆN TỬ ---
+[Câu 33 | LT | Phao Trang 6 (Hàng 1, Cột 3)]
+  Đề: Trình bày quy trình bảy bước xây dựng website thương mại điện tử và đường cong chi phí sửa sai. Vì sao không thể thiết kế giao diện trước khi làm kiến trúc thông tin?
+
+[Câu 34 | VD | Phao Trang 6 (Hàng 2, Cột 1)]
+  Đề: Cửa hàng 40 sản phẩm, đội hai người không có kỹ năng vận hành máy chủ, cần ra mắt trong một tháng. Dùng khung bốn tiêu chí để chọn giữa mã nguồn mở, dịch vụ trọn gói và tự phát triển; nêu điều kiện kiểm tra trước khi ký hợp đồng.
+
+[Câu 35 | VD | Phao Trang 6 (Hàng 2, Cột 2)]
+  Đề: Trang thanh toán là điểm có giá trị cải thiện cao nhất. Đề xuất các yêu cầu thiết kế trang thanh toán, nối mỗi yêu cầu với nguyên nhân rơi mà nó giải quyết và với yêu cầu pháp lý tương ứng (nếu có).
+
+[Câu 36 | LT | Phao Trang 6 (Hàng 2, Cột 3)]
+  Đề: Trình bày sáu nhóm kiểm thử bắt buộc trước khi ra mắt website và vòng lặp bốn bước cải tiến sau ra mắt. Nêu các quy tắc thiết kế thử nghiệm A/B.
+
+--- BUỔI 10: TRÍ TUỆ NHÂN TẠO, LOGISTICS, XU HƯỚNG VÀ ÔN TẬP ---
+[Câu 37 | VD | Phao Trang 7 (Hàng 1, Cột 1)]
+  Đề: Phân tích bốn rủi ro khi ứng dụng trí tuệ nhân tạo trong thương mại điện tử và biện pháp kiểm soát. Vận dụng vào tình huống trợ lý hội thoại tư vấn sai chính sách bảo hành dẫn tới khiếu nại.
+
+[Câu 38 | LT | Phao Trang 7 (Hàng 1, Cột 2)]
+  Đề: Trình bày quy trình sáu bước hoàn tất đơn hàng, hai điểm rủi ro cao nhất và sự khác biệt giữa tồn kho khả dụng và tồn kho vật lý. So sánh hai mô hình kho vận.
+
+[Câu 39 | VD | Phao Trang 7 (Hàng 1, Cột 3)]
+  Đề: Một cửa hàng thời trang có tỷ lệ hoàn hàng 18%, thời gian từ đặt hàng tới khi khách nhận trung bình 5 ngày, chi phí logistics mỗi đơn đang tiến gần lợi nhuận gộp mỗi đơn. Dùng hệ sáu chỉ số logistics để chẩn đoán và đề xuất hướng cải thiện.
+
+[Câu 40 | VD | Phao Trang 7 (Hàng 2, Cột 1)]
+  Đề: Một doanh nghiệp Việt Nam muốn mở rộng từ bán trong nước sang xuất khẩu trực tuyến. Phân tích năm rào cản xuyên biên giới và trình bày ba nhóm việc cần chuẩn bị theo thứ tự phụ thuộc.
+
+--- BUỔI 11: THỰC HÀNH: DỰNG CỬA HÀNG VÀ KIẾN TRÚC THÔNG TIN ---
+[Câu 41 | VD | Phao Trang 7 (Hàng 2, Cột 2)]
+  Đề: Thiết kế lược đồ dữ liệu sản phẩm và cây danh mục cho cửa hàng 40 sản phẩm đồ dùng học tập (bài thực hành buổi 11). Giải thích cách phân nhóm trường dữ liệu, quy tắc mã sản phẩm, giới hạn độ sâu danh mục và cách chọn thuộc tính lọc.
+
+--- BUỔI 12: THỰC HÀNH: THANH TOÁN, AN TOÀN VÀ HỒ SƠ TUÂN THỦ ---
+[Câu 42 | VD | Phao Trang 7 (Hàng 2, Cột 3)]
+  Đề: Lập kế hoạch kiểm thử sáu luồng thanh toán cho cửa hàng của nhóm (bài thực hành buổi 12). Giải thích vì sao trường hợp “kết quả thanh toán tới muộn” là nguy hiểm nhất và trình bày giải pháp kỹ thuật.
+
+--- BUỔI 13: THỰC HÀNH: MARKETING, ĐO LƯỜNG VÀ QUYẾT ĐỊNH THEO SỐ LIỆU ---
+[Câu 43 | VD | Phao Trang 8 (Hàng 1, Cột 1)]
+  Đề: Dữ liệu 30 ngày của cửa hàng: Nguồn tự nhiên — 3.000 phiên, 1.500 xem sản phẩm, 450 thêm giỏ, 270 thanh toán, 135 hoàn tất. Nguồn quảng cáo — 2.000 phiên, 1.200 xem sản phẩm, 180 thêm giỏ, 108 thanh toán, 54 hoàn tất. (a) Lập phễu theo từng nguồn và phễu gộp. (b) Chẩn đoán mắt xích yếu và so sánh hai phương án: A — nâng tỷ lệ xem sản phẩm → thêm giỏ của nguồn quảng cáo từ 15% lên 20%; B — nâng tỷ lệ thanh toán → hoàn tất của toàn bộ lưu lượng từ 50% lên 54%. (c) Với đơn trung bình 250.000 đồng, 2,5 đơn/năm, gắn bó 2 năm, tỷ lệ lợi nhuận gộp bình quân có trọng số 32%, tính LTV, CAC tối đa (LTV/CAC ≥ 3) và CPC tối đa cho nguồn quảng cáo.
+
+--- BUỔI 14: SEMINAR: PHÂN TÍCH TÌNH HUỐNG VÀ PHẢN BIỆN CÓ CẤU TRÚC ---
+[Câu 44 | VD | Phao Trang 8 (Hàng 1, Cột 2)]
+  Đề: Tình huống seminar: tỷ lệ lợi nhuận gộp 28%. Chiến dịch A (tìm kiếm thương hiệu) 30 triệu/tháng, ROAS 4,2; B (mạng xã hội) 45 triệu, ROAS 2,8; C (video ngắn, nhận biết) 25 triệu, ROAS 1,6. Với vai trò nhóm trình bày, hãy phân tích đề xuất “tắt B và C, dồn toàn bộ ngân sách vào A”; với vai trò nhóm phản biện, nêu ba câu hỏi phản biện có chất lượng.
+
+--- BUỔI 15: BẢO VỆ BÀI TẬP LỚN VÀ TỔNG KẾT HỌC PHẦN ---
+[Câu 45 | LT | Phao Trang 8 (Hàng 1, Cột 3)]
+  Đề: Trình bày bản đồ học phần theo ba khối kiến thức và ba mối liên kết xuyên buổi. Với mỗi liên kết, nêu một ví dụ cụ thể từ bài tập lớn của nhóm (hoặc một cửa hàng giả định).
+
+--- CÂU HỎI MỞ TỔNG HỢP (Câu 46 -> Câu 60) ---
+[Câu 46 | MO | Phao Trang 8 (Hàng 2, Cột 1)]
+  Đề: “Thương mại điện tử không loại bỏ bán lẻ truyền thống mà tạo ra một tập hợp kênh mới.” Bình luận nhận định này và đề xuất mô hình phối hợp đa kênh cho một doanh nghiệp bán lẻ truyền thống do anh/chị tự chọn.
+
+[Câu 47 | MO | Phao Trang 8 (Hàng 2, Cột 2)]
+  Đề: Đề xuất một ý tưởng kinh doanh thương mại điện tử vốn nhỏ và tự đánh giá ý tưởng đó theo khung năm câu hỏi của Tổng kết học phần.
+
+[Câu 48 | MO | Phao Trang 8 (Hàng 2, Cột 3)]
+  Đề: Theo số liệu được dẫn trong Tổng kết học phần, năm 2025 thị trường thương mại điện tử Việt Nam tăng trưởng nhưng tập trung (Shopee khoảng 57,5%, TikTok Shop khoảng 39,6% thị phần bốn sàn lớn), số gian hàng có doanh số giảm khoảng 7%. Phân tích tác động của xu hướng tập trung đối với người bán nhỏ và đề xuất chiến lược thích ứng.
+
+[Câu 49 | MO | Phao Trang 9 (Hàng 1, Cột 1)]
+  Đề: “Tuân thủ là năng lực cạnh tranh, không chỉ là chi phí.” Bình luận nhận định này trong bối cảnh ba đạo luật mới có hiệu lực năm 2026.
+
+[Câu 50 | MO | Phao Trang 9 (Hàng 1, Cột 2)]
+  Đề: Đề xuất bộ nguyên tắc vận hành một phiên bán hàng phát trực tiếp “có trách nhiệm” cho một nhà bán hàng, cân bằng giữa hiệu quả bán hàng và quyền lợi người tiêu dùng.
+
+[Câu 51 | MO | Phao Trang 9 (Hàng 1, Cột 3)]
+  Đề: Lừa đảo bằng trí tuệ nhân tạo tạo sinh (thư đúng văn phong, giả mạo hình ảnh và giọng nói) đang thay đổi bối cảnh đe doạ. Đề xuất bộ quy trình kiểm soát nội bộ cho một doanh nghiệp thương mại điện tử vừa và nhỏ, cân bằng giữa an toàn và chi phí.
+
+[Câu 52 | MO | Phao Trang 9 (Hàng 2, Cột 1)]
+  Đề: Ranh giới giữa cá nhân hoá và xâm phạm quyền riêng tư nằm ở đâu? Trình bày quan điểm của anh/chị về định giá theo hành vi (giá khác nhau theo thiết bị, vị trí) và đề xuất tiêu chí đánh giá.
+
+[Câu 53 | MO | Phao Trang 9 (Hàng 2, Cột 2)]
+  Đề: Xây dựng lộ trình ứng dụng trí tuệ nhân tạo trong 24 tháng cho một cửa hàng trực tuyến quy mô vừa. Lộ trình cần nêu thứ tự ứng dụng, điều kiện dữ liệu và cơ chế kiểm soát rủi ro.
+
+[Câu 54 | MO | Phao Trang 9 (Hàng 2, Cột 3)]
+  Đề: “Giảm phát thải và giảm hoàn hàng là hai mục tiêu trùng nhau về mặt kinh tế.” Phân tích nhận định này và đề xuất các biện pháp thương mại điện tử xanh khả thi cho người bán.
+
+[Câu 55 | MO | Phao Trang 10 (Hàng 1, Cột 1)]
+  Đề: Thanh toán khi nhận hàng (COD) vẫn chiếm tỷ trọng đáng kể ở Việt Nam. Theo anh/chị, người bán nên khuyến khích hay hạn chế COD? Lập luận từ góc độ người bán, người mua và hệ thống.
+
+[Câu 56 | MO | Phao Trang 10 (Hàng 1, Cột 2)]
+  Đề: Thiết kế hệ chỉ số đo lường ba tầng cho một cửa hàng trực tuyến do anh/chị chọn. Giải thích lựa chọn mô hình quy kết, giới hạn của mô hình đó và cách bù đắp.
+
+[Câu 57 | MO | Phao Trang 10 (Hàng 1, Cột 3)]
+  Đề: Một doanh nghiệp nhỏ mới khởi nghiệp nên xây website riêng ngay từ đầu hay chỉ bán qua sàn và mạng xã hội? Lập luận theo từng giai đoạn phát triển của doanh nghiệp.
+
+[Câu 58 | MO | Phao Trang 10 (Hàng 2, Cột 1)]
+  Đề: Phân tích một sự cố rò rỉ dữ liệu khách hàng giả định tại một sàn thương mại điện tử theo các khung đã học: sáu thuộc tính an toàn, công thức rủi ro, quy trình ứng phó bốn giai đoạn và nghĩa vụ pháp lý.
+
+[Câu 59 | MO | Phao Trang 10 (Hàng 2, Cột 2)]
+  Đề: Chọn một sản phẩm Việt Nam và một thị trường đích cụ thể. Xây dựng kế hoạch thâm nhập thị trường qua kênh số trong 12 tháng.
+
+[Câu 60 | MO | Phao Trang 10 (Hàng 2, Cột 3)]
+  Đề: Trong “mười nguyên tắc ra quyết định” của học phần, hãy chọn ba nguyên tắc mà anh/chị cho là quan trọng nhất đối với người làm thương mại điện tử giai đoạn 2026–2030 và lập luận cho lựa chọn đó.
+
+================================================================================
+PHẦN 2: BẢNG TRA CỨU SIÊU TỐC THEO TỪ KHÓA NHẬN DIỆN ĐỀ BÀI
+================================================================================
+• Câu 01 (Trang 1)   : Nghĩa hẹp vs Nghĩa rộng, đo quy mô 31/32/38,5 tỷ USD
+• Câu 02 (Trang 1)   : 8 đặc trưng công nghệ TMĐT & hệ quả kinh doanh
+• Câu 03 (Trang 1)   : So sánh B2B và B2C theo 5 chiều + chức năng hệ thống B2B
+• Câu 04 (Trang 1)   : HTX nông sản vùng núi, 4 nhóm hạ tầng N1 -> N2 -> N3 -> N4
+• Câu 05 (Trang 1)   : 8 thành phần mô hình kinh doanh, vì sao Đề xuất giá trị đi trước
+• Câu 06 (Trang 1)   : 5 mô hình doanh thu (Bán hàng, Quảng cáo, Đăng ký, Phí GD, Liên kết)
+• Câu 07 (Trang 2)   : Sàn TMĐT vs Nhà bán lẻ điện tử (Doanh thu, chi phí, rủi ro)
+• Câu 08 (Trang 2)   : Xưởng đồ da thủ công 300 triệu, phân bổ kênh 12 tháng đầu
+• Câu 09 (Trang 2)   : 4 tầng TCP/IP, 8 bước tải trang web & chẩn đoán trang tải 8 giây
+• Câu 10 (Trang 2)   : Hiệu năng ảnh hưởng chuyển đổi, CDN giảm độ trễ và chống DDoS
+• Câu 11 (Trang 2)   : CSDL quan hệ (SQL - ACID) vs Phi quan hệ (NoSQL) cho từng loại dữ liệu
+• Câu 12 (Trang 2)   : Đội 3 lập trình viên, 8 tuần: Chọn Nguyên khối (Monolith) hay Vi dịch vụ
+• Câu 13 (Trang 3)   : 5 chủ thể thanh toán thẻ, Ủy quyền (Authorization) vs Quyết toán (Settlement)
+• Câu 14 (Trang 3)   : Đối soát 3 nguồn (OMS - Cổng TT - Ngân hàng/ĐVVC), lệch trạng thái
+• Câu 15 (Trang 3)   : [BÀI TẬP TÍNH] Biểu phí cổng TT 2.000đ + 1,5%, đơn 150k / 450k / 1.500k
+• Câu 16 (Trang 3)   : Chấm điểm rủi ro gian lận (3 quy tắc) & xử lý đòi bồi hoàn (Chargeback)
+• Câu 17 (Trang 3)   : 4 tiêu chí phân khúc khách hàng (Mỹ phẩm thiên nhiên) & kênh tiếp cận
+• Câu 18 (Trang 3)   : [BÀI TẬP TÍNH] Phễu 10.000 phiên -> 4.200 -> 1.100 -> 620 -> 280 đơn
+• Câu 19 (Trang 4)   : 4 bước công cụ tìm kiếm (Thu thập->Kết xuất->Chỉ mục->Xếp hạng) & 3 nhóm SEO
+• Câu 20 (Trang 4)   : [BÀI TẬP TÍNH] LTV & CAC: Đơn 450.000đ, 3 đơn/năm, 2 năm, lãi gộp 30%
+• Câu 21 (Trang 4)   : [BÀI TẬP TÍNH] Quảng cáo chi 24 triệu, 400k hiện, 6k nhấp, 120 đơn, DT 84tr
+• Câu 22 (Trang 4)   : Đấu giá quảng cáo (Xếp hạng = Giá thầu × Điểm chất lượng) & Trang đích
+• Câu 23 (Trang 4)   : 4 mô hình quy kết (Tương tác đầu, cuối, tuyến tính, suy giảm) & cắt nhầm kênh
+• Câu 24 (Trang 4)   : Thương mại xã hội (Social Commerce) & Livestream vs Phễu web truyền thống
+• Câu 25 (Trang 5)   : Phân biệt Tính bí mật (Confidentiality) và Tính riêng tư (Privacy)
+• Câu 26 (Trang 5)   : Mật mã lai trong TLS (Bất đối xứng + Đối xứng) & Bí mật chuyển tiếp
+• Câu 27 (Trang 5)   : Cơ chế tạo/kiểm tra Chữ ký số (Băm + Khóa riêng) & giá trị pháp lý
+• Câu 28 (Trang 5)   : Máy chủ bị xâm nhập lúc 02:00 sáng: Quy trình ứng phó sự cố 4 giai đoạn
+• Câu 29 (Trang 5)   : 6 đạo luật điều chỉnh TMĐT & 3 luật mới có hiệu lực năm 2026
+• Câu 30 (Trang 5)   : Vì sao Luật TMĐT 2025 đặt nghĩa vụ giám sát lên Nền tảng thay vì người bán?
+• Câu 31 (Trang 6)   : Biểu mẫu đặt hàng thu Ngày sinh, Giới tính, ô tích sẵn nhận quảng cáo (6 nguyên tắc)
+• Câu 32 (Trang 6)   : Niêm yết nhầm giá Laptop 1.990.000đ thay vì 19.900.000đ & Thời điểm hợp đồng
+• Câu 33 (Trang 6)   : Quy trình 7 bước xây dựng website TMĐT & Đường cong chi phí sửa sai
+• Câu 34 (Trang 6)   : Cửa hàng 40 SP, đội 2 người, ra mắt 1 tháng: Mã nguồn mở vs Trọn gói vs Tự code
+• Câu 35 (Trang 6)   : 6 nguyên nhân bỏ giỏ hàng ở bước Thanh toán & Thiết kế trang thanh toán
+• Câu 36 (Trang 6)   : 6 nhóm kiểm thử trước khi ra mắt website & Vì sao phải test trên thiết bị thật
+• Câu 37 (Trang 7)   : 4 rủi ro ứng dụng AI (Chính xác, Thiên lệch, Dữ liệu cá nhân, Chi phí ẩn)
+• Câu 38 (Trang 7)   : Quy trình 6 bước Hoàn tất đơn hàng (Fulfillment) & Tồn kho khả dụng
+• Câu 39 (Trang 7)   : [BÀI TẬP CHẨN ĐOÁN] Thời trang hoàn hàng 18%, giao 5 ngày, 6 chỉ số Logistics
+• Câu 40 (Trang 7)   : 5 rào cản TMĐT xuyên biên giới (Xuất khẩu trực tuyến) & tiêu chí chọn SP
+• Câu 41 (Trang 7)   : Thực hành Buổi 11: Thiết kế lược đồ dữ liệu SP & cây danh mục 40 SP đồ dùng học tập
+• Câu 42 (Trang 7)   : Thực hành Buổi 12: Kế hoạch kiểm thử 6 luồng thanh toán & lỗi 'Kết quả tới muộn'
+• Câu 43 (Trang 8)   : [BÀI TẬP TÍNH] Thực hành Buổi 13: Phễu Tự nhiên (3.000) vs Quảng cáo (2.000) & LTV 250k
+• Câu 44 (Trang 8)   : [BÀI TẬP TÍNH] Seminar Buổi 14: Biên gộp 28%, Chiến dịch A (4,2), B (2,8), C (1,6)
+• Câu 45 (Trang 8)   : Tổng kết Buổi 15: Bản đồ học phần 3 khối kiến thức & 3 mối liên kết xuyên buổi
+• Câu 46 (Trang 8)   : [Câu mở] TMĐT không loại bỏ bán lẻ truyền thống mà tạo tập hợp kênh mới (Đa kênh)
+• Câu 47 (Trang 8)   : [Câu mở] Đề xuất ý tưởng kinh doanh TMĐT vốn nhỏ theo khung 5 câu hỏi
+• Câu 48 (Trang 8)   : [Câu mở] Thị trường 2025 tập trung (Shopee 57,5%, TikTok 39,6%), gian hàng giảm 7%
+• Câu 49 (Trang 9)   : [Câu mở] 'Tuân thủ là năng lực cạnh tranh, không chỉ là chi phí' (3 luật mới 2026)
+• Câu 50 (Trang 9)   : [Câu mở] Thiết kế quy trình bán hàng qua phát trực tiếp (Livestream) có trách nhiệm
+• Câu 51 (Trang 9)   : [Câu mở] Lừa đảo bằng AI tạo sinh (Deepfake ảnh/giọng nói) & kiểm soát nội bộ
+• Câu 52 (Trang 9)   : [Câu mở] Đánh đổi giữa Cá nhân hóa trải nghiệm và Quyền riêng tư dữ liệu
+• Câu 53 (Trang 9)   : [Câu mở] Lộ trình ứng dụng AI trong 24 tháng cho cửa hàng trực tuyến quy mô vừa
+• Câu 54 (Trang 9)   : [Câu mở] Giảm tỷ lệ hoàn hàng vừa có lợi kinh tế vừa giảm phát thải (TMĐT xanh)
+• Câu 55 (Trang 10)  : [Câu mở] Vì sao thanh toán khi nhận hàng (COD) vẫn phổ biến ở Việt Nam & lộ trình giảm
+• Câu 56 (Trang 10)  : [Câu mở] Thiết kế hệ chỉ số 3 tầng (Chiến lược - Chẩn đoán - Vận hành) trên 1 trang
+• Câu 57 (Trang 10)  : [Câu mở] Khi nào doanh nghiệp nên rời Sàn để xây Website riêng (hoặc kết hợp)?
+• Câu 58 (Trang 10)  : [Câu mở] Phân tích sự cố rò rỉ dữ liệu khách hàng giả định tại sàn TMĐT
+• Câu 59 (Trang 10)  : [Câu mở] Kế hoạch 12 tháng thâm nhập thị trường nước ngoài qua kênh số cho SP Việt
+• Câu 60 (Trang 10)  : [Câu mở] Chọn 3 trong '10 nguyên tắc ra quyết định' quan trọng nhất giai đoạn 2026-2030
+
+
+================================================================================
+PHẦN 3: TỔNG HỢP 26 CÔNG THỨC CỐT LÕI & ĐÁP SỐ 6 BÀI TẬP TÍNH (PHAO TRANG 11)
+================================================================================
+
+1. NHÓM QUẢNG CÁO SỐ (BUỔI 6, 14):
+   - CTR (Tỷ lệ nhấp)          = (Lượt nhấp ÷ Lượt hiển thị) × 100%
+   - CPC (Chi phí 1 nhấp)      = Chi phí QC ÷ Lượt nhấp
+   - CPM (Chi phí 1.000 hiện)  = (Chi phí QC ÷ Lượt hiển thị) × 1.000
+   - CVR (Tỷ lệ chuyển đổi)    = (Số đơn hàng ÷ Lượt nhấp) × 100%
+   - CPA (Chi phí 1 đơn hàng)  = Chi phí QC ÷ Số đơn = CPC ÷ CVR
+   - AOV (Giá trị đơn TB)      = Doanh thu ÷ Số đơn
+   - ROAS (Thu hồi chi phí QC) = Doanh thu ÷ Chi phí QC = AOV ÷ CPA
+   - Ngưỡng ROAS hoà vốn       = 1 ÷ Biên lợi nhuận gộp
+     (Mốc nhớ: Biên 25% -> 4,0 | Biên 28% -> 3,57 | Biên 30% -> 3,33 | Biên 40% -> 2,5)
+   - Lợi nhuận gộp             = Doanh thu × Biên lợi nhuận gộp
+   - Lãi/Lỗ sau quảng cáo      = Lợi nhuận gộp − Chi phí QC
+   - CPA tối đa để hoà vốn     = AOV × Biên lợi nhuận gộp
+   - CVR cần đạt để hoà vốn    = CPC ÷ CPA tối đa = CPC ÷ (AOV × Biên gộp)
+   - Xếp hạng QC (Ad Rank)     = Giá thầu (Bid) × Điểm chất lượng (Quality Score)
+
+2. NHÓM KHÁCH HÀNG: LTV & CAC (BUỔI 5, 13):
+   - LTV (Giá trị vòng đời)    = AOV × Số đơn/năm × Số năm gắn bó × Biên lợi nhuận gộp
+   - CAC (Chi phí 1 khách mới) = Tổng chi phí Marketing & Sales ÷ Số khách hàng mới
+   - Tỷ số chuẩn vàng          : LTV ÷ CAC ≥ 3  -->  CAC tối đa = LTV ÷ 3
+   - CPC tối đa theo LTV       = CAC tối đa × CVR = (LTV ÷ 3) × CVR
+   - Biên gộp bình quân nhiều SP = Tổng lợi nhuận gộp các SP ÷ Tổng doanh thu
+
+3. NHÓM PHỄU, THANH TOÁN, KHO, LOGISTICS & AN TOÀN (BUỔI 4, 5, 7, 10):
+   - Phễu 4 bước               : Phiên -> Xem SP -> Thêm giỏ -> Thanh toán -> Hoàn tất
+   - Tỷ lệ chuyển tiếp bước    = Số người bước sau ÷ Số người bước ngay trước
+   - CVR toàn phễu             = Đơn hoàn tất ÷ Tổng số phiên
+   - Số đơn tăng khi nâng phễu = Số người vào bước đó × Δ% × Tích % các bước sau
+   - Tỷ lệ bỏ giỏ hàng         = [1 − (Đơn hoàn tất ÷ Lượt thêm giỏ)] × 100%
+   - Phương trình 3 đòn bẩy DT = Lưu lượng × CVR × AOV
+   - Quy kết tuyến tính        = Giá trị đơn hàng ÷ Số điểm tiếp xúc
+   - Phí cổng thanh toán       = Phí cố định + (% phí × Giá trị đơn)
+   - Tỷ trọng phí trên lãi gộp = Phí thanh toán ÷ Lợi nhuận gộp
+   - Tồn kho khả dụng          = Tồn kho vật lý − Số lượng đã giữ cho đơn chờ xuất
+   - Ngưỡng Freeship hợp lý    = AOV × (1 + 10% đến 20%)
+   - Tỷ lệ hoàn hàng           = (Số đơn hoàn ÷ Tổng đơn xuất) × 100%
+   - Công thức Rủi ro ANTT     : Rủi ro = Đe dọa × Lỗ hổng × Tác động
+
+================================================================================
+PHẦN 4: CHI TIẾT 60 CÂU HỎI & ĐÁP ÁN CHUẨN ĐỀ CƯƠNG (CÂU 1 -> CÂU 60)
+================================================================================
+
+--------------------------------------------------------------------------------
+CÂU 1 [LT] (Buổi 1 · Trang phao A4: Trang 1/11 · Đề cương Tr.94)
+ĐỀ BÀI: Phân biệt định nghĩa thương mại điện tử theo nghĩa hẹp và nghĩa rộng. Vì sao sự phân biệt này có ý nghĩa khi đo lường quy mô thị trường? Lấy một ví dụ phân định phổ biến ở Việt Nam.
+ĐÁP ÁN:
+  – Khái niệm: nghĩa hẹp giới hạn ở giao dịch mua bán hàng hoá, dịch vụ trong đó ít nhất việc đặt hàng diễn ra qua mạng (tiêu chí: có đặt hàng trực tuyến?); nghĩa rộng bao gồm toàn bộ hoạt động kinh doanh có sử dụng phương tiện điện tử — marketing, chăm sóc khách hàng, chuỗi cung ứng — kể cả khi giao dịch cuối diễn ra ngoại tuyến.
+  – Cơ chế ảnh hưởng tới đo lường: quy mô thị trường phụ thuộc trực tiếp vào định nghĩa được chọn; hai nguồn dùng hai định nghĩa sẽ cho hai con số khác nhau (ví dụ các nguồn công bố 31, 32 hoặc 38,5 tỷ USD cho năm 2025 do phạm vi đo khác nhau).
+  – Ví dụ bắt buộc: khách thấy sản phẩm trên mạng xã hội → nhắn tin được tư vấn → chốt đơn qua điện thoại → trả tiền khi nhận hàng: nghĩa hẹp có thể không tính, nghĩa rộng được tính.
+  – Kết luận: khi gặp một con số về quy mô thị trường phải kiểm tra nguồn đó dùng định nghĩa nào trước khi so sánh hoặc dùng để ra quyết định.
+
+--------------------------------------------------------------------------------
+CÂU 2 [LT] (Buổi 1 · Trang phao A4: Trang 1/11 · Đề cương Tr.94)
+ĐỀ BÀI: Trình bày bốn trong tám đặc trưng công nghệ của thương mại điện tử. Với mỗi đặc trưng, chỉ ra hệ quả kinh doanh (không chỉ mô tả kỹ thuật).
+ĐÁP ÁN:
+  – Có thể chọn: tính phổ biến (thị trường không giới hạn không gian, thời gian → giảm chi phí giao dịch của người mua); phạm vi toàn cầu (bán ra nước ngoài được, nhưng cạnh tranh cũng đến từ nước ngoài); chuẩn chung TCP/IP, HTTP (chi phí tích hợp giảm mạnh); mật độ thông tin (giá minh bạch → biên lợi nhuận bị ép, buộc cạnh tranh bằng khác biệt thật).
+  – Hoặc: tính tương tác (đánh giá thành tài sản marketing, nhưng phản hồi xấu lan nhanh); đa phương tiện (bù đắp hạn chế không chạm được sản phẩm → trang chi tiết quyết định chuyển đổi); cá nhân hoá (tăng chuyển đổi nhưng phát sinh nghĩa vụ pháp lý về dữ liệu); công nghệ xã hội (nội dung do người dùng tạo có độ tin cậy cao nhất, doanh nghiệp chỉ tạo điều kiện).
+  – Hai hệ quả hay sai: phạm vi toàn cầu có hai mặt; cá nhân hoá là cặp đánh đổi giữa chuyển đổi và nghĩa vụ dữ liệu.
+  – Kết luận: giá trị của bảng đặc trưng nằm ở cột hệ quả kinh doanh; bài chỉ liệt kê tên đặc trưng chỉ đạt mức trung bình.
+
+--------------------------------------------------------------------------------
+CÂU 3 [VD] (Buổi 1 · Trang phao A4: Trang 1/11 · Đề cương Tr.95)
+ĐỀ BÀI: So sánh giao dịch B2B và B2C theo năm chiều: giá trị và tần suất, người quyết định, cơ chế giá, thanh toán, yếu tố quyết định mua. Từ đó suy ra những chức năng mà hệ thống B2B bắt buộc phải có nhưng B2C không cần.
+ĐÁP ÁN:
+  – Giá trị và tần suất: B2C đơn nhỏ, tần suất cao; B2B đơn lớn, tần suất thấp.
+  – Người quyết định: B2C thường một người; B2B nhiều cấp (đề xuất, phê duyệt kỹ thuật, phê duyệt ngân sách).
+  – Giá: B2C niêm yết công khai, như nhau với mọi khách; B2B đàm phán theo khối lượng và quan hệ.
+  – Thanh toán: B2C trả ngay khi đặt; B2B công nợ có thời hạn, cần quản lý hạn mức.
+  – Yếu tố quyết định: B2C có phần cảm xúc và thương hiệu; B2B tính toán chi phí – lợi ích, người quyết định phải giải trình.
+  – Hệ quả thiết kế hệ thống (phần để đạt điểm cao): báo giá riêng theo khách hàng; phân quyền theo tổ chức mua; quản lý công nợ và hạn mức; đặt hàng lặp lại theo hợp đồng khung.
+  – Kết luận: khác biệt về bản chất giao dịch dẫn tới khác biệt về yêu cầu chức năng — nối với việc xác định phạm vi hệ thống ở buổi 9.
+
+--------------------------------------------------------------------------------
+CÂU 4 [VD] (Buổi 1 · Trang phao A4: Trang 1/11 · Đề cương Tr.95)
+ĐỀ BÀI: Một hợp tác xã nông sản ở vùng núi muốn bán sản phẩm trực tuyến ra toàn quốc. Sử dụng sơ đồ bốn nhóm hạ tầng theo thứ tự phụ thuộc để xác định điểm nghẽn có khả năng nhất và đề xuất hướng xử lý.
+ĐÁP ÁN:
+  – Nêu sơ đồ: N1 kỹ thuật (Internet, thiết bị, máy chủ) → N2 thanh toán (phương thức điện tử, chuyển mạch, trung gian được cấp phép) → N3 logistics (giao nhận, kho, theo dõi đơn) → N4 pháp lý và niềm tin (khung pháp luật, giải quyết tranh chấp, bảo vệ người tiêu dùng).
+  – Chẩn đoán: N1 thường không phải điểm nghẽn (tỷ lệ kết nối Internet cao); điểm nghẽn có khả năng nhất là N3 (giao hàng chặng cuối từ vùng núi, bảo quản nông sản) và N4 (người mua chưa tin người bán lạ, chưa có thông tin pháp lý, chứng nhận chất lượng).
+  – Hệ quả nếu thiếu: thiếu N3 → trải nghiệm nhận hàng kém, chiếm phần lớn cảm nhận của khách; thiếu N4 → khách không dám giao dịch; thiếu N2 → phải dùng COD, kéo theo rủi ro dòng tiền và tỷ lệ từ chối nhận.
+  – Đề xuất: hợp tác đơn vị vận chuyển có mạng lưới vùng, chọn sản phẩm phù hợp vận chuyển xa; công khai thông tin pháp lý, chứng nhận chất lượng, chính sách đổi trả; dùng mã QR làm phương thức mặc định.
+  – Kết luận: dùng sơ đồ để xác định nhóm nào là điểm nghẽn, vì N3 và N4 cần thời gian xây dựng dài hơn.
+
+--------------------------------------------------------------------------------
+CÂU 5 [LT] (Buổi 2 · Trang phao A4: Trang 1/11 · Đề cương Tr.96)
+ĐỀ BÀI: Trình bày tám thành phần của một mô hình kinh doanh thương mại điện tử. Vì sao đề xuất giá trị phải được xác định trước mô hình doanh thu?
+ĐÁP ÁN:
+  – Tám thành phần: đề xuất giá trị, mô hình doanh thu, cơ hội thị trường, môi trường cạnh tranh, lợi thế cạnh tranh, chiến lược thị trường, phát triển tổ chức, đội ngũ quản lý.
+  – Đề xuất giá trị trả lời: khách hàng nhận được gì và vì sao chọn mình thay vì đối thủ; mô hình doanh thu trả lời: thu tiền từ đâu.
+  – Cơ chế thứ tự: không thể quyết định thu tiền từ đâu khi chưa biết tạo giá trị gì cho ai — cùng một sản phẩm có thể thu từ người dùng, nhà quảng cáo hoặc bên thứ ba; lựa chọn phụ thuộc ai là người nhận giá trị chính.
+  – Hệ quả nếu đảo thứ tự: chọn mô hình doanh thu theo cách phổ biến trên thị trường rồi cố điều chỉnh sản phẩm cho vừa; có khách hàng nhưng không chuyển giá trị thành dòng tiền.
+  – Kết luận: giá trị của khung tám thành phần là buộc người lập kế hoạch phát biểu rõ giả định và kiểm tra tính nhất quán giữa chúng.
+
+--------------------------------------------------------------------------------
+CÂU 6 [LT] (Buổi 2 · Trang phao A4: Trang 1/11 · Đề cương Tr.96)
+ĐỀ BÀI: Trình bày năm mô hình doanh thu trong thương mại điện tử. Với mỗi mô hình, nêu điều kiện để mô hình hoạt động được và một dấu hiệu cho thấy điều kiện đó không được thoả mãn.
+ĐÁP ÁN:
+  – Bán hàng: biên lợi nhuận gộp đủ bù chi phí thu hút khách và logistics — dấu hiệu vi phạm: càng bán nhiều càng lỗ.
+  – Quảng cáo: lưu lượng lớn và phân khúc được theo mối quan tâm — dấu hiệu: nhà quảng cáo không gia hạn vì không nhắm được mục tiêu.
+  – Đăng ký định kỳ: giá trị được cảm nhận liên tục — dấu hiệu: tỷ lệ huỷ cao sau lần dùng đầu.
+  – Phí giao dịch: nền tảng thực sự giảm chi phí tìm kiếm hoặc rủi ro cho hai bên — dấu hiệu: người mua, người bán chuyển sang giao dịch trực tiếp để tránh phí.
+  – Liên kết: khán giả tin khuyến nghị — dấu hiệu: tỷ lệ chuyển đổi sụp khi khuyến nghị mất tin cậy.
+  – Kết luận: đề xuất giá trị xác định trước mô hình doanh thu; một doanh nghiệp có thể kết hợp nhiều mô hình nhưng mỗi mô hình phải thoả điều kiện riêng.
+
+--------------------------------------------------------------------------------
+CÂU 7 [VD] (Buổi 2 · Trang phao A4: Trang 2/11 · Đề cương Tr.96)
+ĐỀ BÀI: Một sàn thương mại điện tử và một nhà bán lẻ điện tử cùng bán hàng cho người tiêu dùng. Phân tích khác biệt về mô hình doanh thu, cấu trúc chi phí và rủi ro của hai mô hình; nêu điểm chung.
+ĐÁP ÁN:
+  – Doanh thu: nhà bán lẻ thu từ chênh lệch giá bán – giá vốn; sàn thu phí giao dịch, phí dịch vụ và quảng cáo nội sàn.
+  – Chi phí: nhà bán lẻ chịu chi phí hàng hoá, tồn kho, logistics; sàn chịu chi phí nền tảng, kiểm duyệt người bán, giải quyết khiếu nại, không chịu chi phí hàng hoá.
+  – Rủi ro: nhà bán lẻ chịu rủi ro tồn kho lỗi mốt và giá vốn; sàn chịu rủi ro chất lượng người bán, uy tín khi có hàng giả và từ 01/7/2026 chịu nghĩa vụ định danh người bán, xử lý khiếu nại, khấu trừ nộp thuế thay theo Luật Thương mại điện tử số 122/2025/QH15.
+  – Điểm chung: đều phụ thuộc chi phí thu hút khách hàng nên đều cần đo giá trị vòng đời khách hàng.
+  – Kết luận: khác biệt cốt lõi nằm ở chỗ ai sở hữu hàng hoá — quyết định cấu trúc chi phí và loại rủi ro.
+
+--------------------------------------------------------------------------------
+CÂU 8 [VD] (Buổi 2 · Trang phao A4: Trang 2/11 · Đề cương Tr.97)
+ĐỀ BÀI: Một doanh nghiệp đang chỉ bán qua sàn, cân nhắc mở thêm website riêng. Phân tích lợi ích, rủi ro và điều kiện vận hành bắt buộc của mô hình đa kênh.
+ĐÁP ÁN:
+  – Rủi ro của việc chỉ bán qua sàn: phụ thuộc chính sách và phí của sàn; không sở hữu quan hệ và dữ liệu khách hàng (dữ liệu nằm trên hạ tầng bên thứ ba).
+  – Lợi ích đa kênh: vẫn tận dụng lưu lượng và uy tín của sàn; tích luỹ tài sản khách hàng trên kênh sở hữu (website, danh sách thư) với chi phí biên thấp, phục vụ bán lặp lại.
+  – Điều kiện vận hành: đồng bộ tồn kho theo thời gian thực từ một nguồn dữ liệu duy nhất — nếu không, cùng một sản phẩm cuối có thể bán ở hai kênh, dẫn tới huỷ đơn.
+  – Chi phí phát sinh: vận hành website, thanh toán, tuân thủ (công khai thông tin, chính sách quyền riêng tư) và marketing để kéo lưu lượng về kênh riêng.
+  – Kết luận: quyết định không phải chọn kênh nào mà phối hợp các kênh thế nào; mở kênh riêng khi có năng lực đồng bộ dữ liệu và kế hoạch chuyển khách từ sàn sang kênh sở hữu.
+
+--------------------------------------------------------------------------------
+CÂU 9 [LT] (Buổi 3 · Trang phao A4: Trang 2/11 · Đề cương Tr.97)
+ĐỀ BÀI: Trình bày kiến trúc phân tầng TCP/IP và vai trò của từng tầng đối với một giao dịch thương mại điện tử. Vì sao chuyển mạch gói phù hợp với Internet hơn chuyển mạch kênh?
+ĐÁP ÁN:
+  – Tầng ứng dụng: HTTP/HTTPS, SMTP, IMAP, DNS, FTP, SSH — nơi trình duyệt gửi yêu cầu mua hàng, gửi thư xác nhận đơn.
+  – Tầng giao vận: TCP tin cậy, đúng thứ tự (phù hợp dữ liệu đơn hàng); UDP nhanh, không bảo đảm.
+  – Tầng Internet: IP v4/v6, định tuyến, ICMP — đưa gói tới đúng máy chủ.
+  – Tầng liên kết: Ethernet, Wi-Fi, 4G/5G, cáp quang.
+  – Yêu cầu mua hàng đi xuống bốn tầng ở máy khách, truyền qua mạng rồi đi lên bốn tầng ở máy chủ.
+  – Chuyển mạch gói: dữ liệu chia thành gói, mỗi gói đi tuyến riêng, ghép tại đích → nhiều luồng dùng chung hạ tầng (hiệu quả băng thông) và sự cố một nút không làm gián đoạn cả phiên (chịu lỗi tốt).
+  – Kết luận: mọi giao dịch đi qua đủ bốn tầng ở cả hai phía; mỗi tầng là một điểm có thể tối ưu hoặc phát sinh sự cố.
+
+--------------------------------------------------------------------------------
+CÂU 10 [LT] (Buổi 3 · Trang phao A4: Trang 2/11 · Đề cương Tr.98)
+ĐỀ BÀI: Giải thích cơ chế phân giải tên miền (DNS) và vai trò các bản ghi A/AAAA, CNAME, MX, TXT, TTL. Vì sao phải giảm TTL trước khi chuyển website sang máy chủ mới?
+ĐÁP ÁN:
+  – Năm bước: bộ nhớ đệm cục bộ → máy chủ đệ quy của nhà cung cấp → máy chủ gốc → máy chủ cấp cao → máy chủ thẩm quyền trả bản ghi A/AAAA; kết quả được lưu đệm.
+  – Bản ghi: A/AAAA trỏ IPv4/IPv6 (website chạy trên máy chủ nào); CNAME trỏ sang tên miền khác (CDN, nền tảng thuê ngoài); MX định tuyến thư (sai là mất thư xác nhận đơn); TXT chứa SPF, DKIM (chống giả mạo thư thương hiệu); TTL là thời gian lưu đệm.
+  – Cơ chế rủi ro khi chuyển máy chủ: TTL dài khiến người dùng vẫn bị dẫn tới máy chủ cũ sau khi đổi IP → mất đơn hàng.
+  – Cách làm: giảm TTL trước thời điểm chuyển ít nhất bằng giá trị TTL cũ để bản ghi đệm kịp hết hạn, sau khi chuyển ổn định có thể tăng lại.
+  – Kết luận: DNS là “danh bạ” của Internet; cấu hình bản ghi quyết định tính liên tục của kinh doanh.
+
+--------------------------------------------------------------------------------
+CÂU 11 [VD] (Buổi 3 · Trang phao A4: Trang 2/11 · Đề cương Tr.98)
+ĐỀ BÀI: So sánh cơ sở dữ liệu quan hệ và phi quan hệ. Thiết kế lược đồ tối thiểu cho cửa hàng trực tuyến và giải thích vì sao bảng chi tiết dòng đơn hàng phải lưu tên và đơn giá tại thời điểm mua.
+ĐÁP ÁN:
+  – Quan hệ (SQL): bảng, khoá ngoại, bảo đảm ACID; phù hợp đơn hàng, thanh toán, tồn kho, kế toán; hạn chế: mở rộng ngang khó, đổi lược đồ tốn kém.
+  – Phi quan hệ (NoSQL): lược đồ linh hoạt, ưu tiên mở rộng ngang và sẵn sàng; phù hợp danh mục, nhật ký hành vi, khuyến nghị; không phù hợp giao dịch cần nhất quán tuyệt đối.
+  – Lược đồ tối thiểu bốn nhóm bảng: danh mục (sản phẩm, biến thể, danh mục/thẻ); khách hàng (tài khoản, địa chỉ, hạng thành viên); giao dịch (đơn hàng, chi tiết dòng, thanh toán, phiếu giảm giá); vận hành (tồn kho, vận đơn, đổi trả). Quan hệ khach_hang 1:N don_hang 1:N chi_tiet_dong.
+  – Lý do lưu giá tại thời điểm mua: giá thay đổi do khuyến mại và chi phí; nếu chỉ tham chiếu giá hiện hành thì đơn cũ hiển thị giá mới, báo cáo doanh thu, lợi nhuận và hồ sơ kế toán sai lệch.
+  – Kết luận: dữ liệu giao dịch phải bất biến; đơn hàng là giao dịch nguyên tử — trừ kho, ghi tiền, tạo đơn cùng thành công hoặc cùng thất bại.
+
+--------------------------------------------------------------------------------
+CÂU 12 [VD] (Buổi 3 · Trang phao A4: Trang 2/11 · Đề cương Tr.99)
+ĐỀ BÀI: Một cửa hàng nhỏ (đội phát triển 3 người) vừa cân nhắc chuyển sang kiến trúc dịch vụ nhỏ, vừa lo website sập vào ngày siêu khuyến mại. Hãy tư vấn về lựa chọn kiến trúc và đề xuất bốn biện pháp kỹ thuật – vận hành để chịu đỉnh tải.
+ĐÁP ÁN:
+  – So sánh: nguyên khối triển khai đơn giản, chi phí thấp nhưng mở rộng phải nhân bản toàn bộ; dịch vụ nhỏ mở rộng chọn lọc, cô lập sự cố nhưng vận hành phức tạp, chi phí lớn, khó nhất quán dữ liệu.
+  – Tư vấn: không áp dụng dịch vụ nhỏ — lợi ích chính chưa xuất hiện ở quy mô nhỏ, trong khi chi phí và độ phức tạp tăng mạnh, làm chậm phát triển tính năng; nguyên khối phù hợp đội dưới 10 người.
+  – Quy trình quyết định: đo lưu lượng hiện tại (không thiết kế theo quy mô 5 năm), đánh giá năng lực đội ngũ, ước lượng đỉnh tải mùa vụ, thiết kế an toàn từ đầu.
+  – Bốn biện pháp chịu đỉnh tải: đám mây tự động co giãn kết hợp cân bằng tải; CDN phục vụ tài nguyên tĩnh; nhiều cấp bộ nhớ đệm (trang, đối tượng, truy vấn); kiểm thử tải trước chiến dịch kèm xếp hàng chờ có kiểm soát.
+  – Kết luận: kiến trúc là bài toán đánh đổi; giải quyết đỉnh tải không đòi hỏi đổi kiến trúc mà đòi hỏi hạ tầng co giãn và chuẩn bị vận hành.
+
+--------------------------------------------------------------------------------
+CÂU 13 [LT] (Buổi 4 · Trang phao A4: Trang 3/11 · Đề cương Tr.99)
+ĐỀ BÀI: Mô tả năm nhóm chủ thể trong một giao dịch thanh toán thẻ. Phân biệt vai trò của cổng thanh toán, tổ chức chuyển mạch và ngân hàng phát hành; phân biệt cấp phép và quyết toán.
+ĐÁP ÁN:
+  – Năm nhóm: phía khách hàng (người mua, thiết bị); phía người bán (website, hệ thống quản lý đơn); trung gian kỹ thuật (cổng thanh toán, trung gian thanh toán); hạ tầng chuyển mạch (NAPAS, tổ chức thẻ quốc tế); định chế tài chính (ngân hàng phát hành, ngân hàng thanh toán, Ngân hàng Nhà nước).
+  – Cổng thanh toán: trung gian kỹ thuật truyền thông điệp; tổ chức chuyển mạch: định tuyến và bù trừ giữa các ngân hàng; ngân hàng phát hành: kiểm tra hạn mức, xác thực mạnh 3-D Secure, ra quyết định chấp thuận và ghi nợ thực tế.
+  – Cấp phép: diễn ra trong 1–3 giây, ngân hàng chỉ giữ khoản tương ứng trong hạn mức, tiền chưa rời tài khoản; quyết toán: tiền thực sự chuyển theo chu kỳ về ngân hàng người bán, đã trừ phí.
+  – Hệ quả: vì cấp phép ≠ quyết toán nên bắt buộc đối soát.
+  – Kết luận: một lần bấm “Thanh toán” kích hoạt chuỗi thông điệp qua năm nhóm chủ thể; người bán chỉ được dùng dịch vụ của tổ chức trung gian thanh toán đã được cấp phép.
+
+--------------------------------------------------------------------------------
+CÂU 14 [LT] (Buổi 4 · Trang phao A4: Trang 3/11 · Đề cương Tr.100)
+ĐỀ BÀI: Trình bày vòng đời giao dịch thẻ và mô hình đối soát ba nguồn. Nêu ba trạng thái lệch thường gặp, nguyên nhân và hướng xử lý. Vì sao không được xác nhận thanh toán dựa vào phản hồi trình duyệt?
+ĐÁP ÁN:
+  – Vòng đời: khởi tạo (mã hoá tại trình duyệt) → cấp phép (giữ hạn mức) → thu tiền (sau khi xác nhận giao được) → quyết toán (tiền về, đã trừ phí) → đối soát (khớp sổ).
+  – Ba nguồn: hệ thống bán hàng (mã đơn, số tiền phải thu, trạng thái), cổng thanh toán (mã giao dịch, số tiền cấp phép, trạng thái thu), sao kê ngân hàng (số tiền thực nhận, ngày ghi có, phí); nhịp đối soát hằng ngày.
+  – Trạng thái lệch: có tiền không có đơn (đơn không tạo do lỗi hệ thống → truy vết theo nội dung chuyển khoản); giao dịch trùng (bấm nhiều lần → khoá chống trùng theo mã đơn); giao dịch treo (mất kết nối giữa cấp phép và thu tiền → truy vấn mã giao dịch, huỷ nếu quá hạn); lệch số tiền (mã giảm giá áp sau cấp phép → rà soát chứng từ, điều chỉnh bút toán).
+  – Phản hồi trình duyệt: tham số do người dùng kiểm soát, có thể bị giả mạo → phải xác nhận bằng thông báo máy chủ tới máy chủ có kiểm tra chữ ký số và truy vấn lại trạng thái.
+  – Kết luận: vòng đời không dừng ở “thành công”; lệch số liệu là bình thường, không đối soát hằng ngày thì tổn thất chỉ phát hiện khi đã khó truy vết.
+
+--------------------------------------------------------------------------------
+CÂU 15 [VD] (Buổi 4 · Trang phao A4: Trang 3/11 · Đề cương Tr.100)
+ĐỀ BÀI: Giả định biểu phí minh hoạ của một cổng thanh toán là 2.000 đồng/giao dịch + 1,5% giá trị đơn; tỷ lệ lợi nhuận gộp 25%. Tính phí và tỷ trọng phí trên lợi nhuận gộp cho ba mức đơn 150.000 đồng, 450.000 đồng và 1.500.000 đồng. Rút ra kết luận về lựa chọn phương thức thanh toán cho đơn giá trị nhỏ.
+ĐÁP ÁN:
+  – Công thức: phí = phí cố định + tỷ lệ % × giá trị đơn; tỷ trọng = phí ÷ lợi nhuận gộp.
+  – Đơn 150.000: phí = 2.000 + 2.250 = 4.250 đồng; lợi nhuận gộp 37.500 đồng; tỷ trọng ≈ 11,3%.
+  – Đơn 450.000: phí = 2.000 + 6.750 = 8.750 đồng; lợi nhuận gộp 112.500 đồng; tỷ trọng ≈ 7,8%.
+  – Đơn 1.500.000: phí = 2.000 + 22.500 = 24.500 đồng; lợi nhuận gộp 375.000 đồng; tỷ trọng ≈ 6,5%.
+  – Giải thích cơ chế: phần phí cố định chiếm tỷ trọng lớn ở đơn nhỏ nên ăn sâu vào lợi nhuận gộp; tỷ trọng giảm dần khi giá trị đơn tăng.
+  – Kết luận: với đơn nhỏ, ưu tiên phương thức phí thấp (chuyển khoản mã QR) làm mặc định; ghi rõ nguồn biểu phí và giả định biên lợi nhuận khi lập bảng (số liệu trong đề là giả định minh hoạ).
+
+--------------------------------------------------------------------------------
+CÂU 16 [VD] (Buổi 4 · Trang phao A4: Trang 3/11 · Đề cương Tr.101)
+ĐỀ BÀI: Thiết kế ba quy tắc chấm điểm rủi ro tối thiểu cho một cửa hàng trực tuyến mới và mô tả quy trình bốn bước xử lý khi phát hiện dấu hiệu gian lận.
+ĐÁP ÁN:
+  – Yêu cầu của quy tắc: điều kiện kích hoạt cụ thể, đo được, lập trình được (ví dụ “ba lần thử trong một giờ”), hành động (giữ đơn, xác minh, chặn) và lý do chọn ngưỡng.
+  – Ví dụ quy tắc: giữ đơn rà soát nếu đơn đầu của tài khoản mới vượt ba lần giá trị trung bình; chặn tạm thời nếu cùng thiết bị phát sinh quá ba giao dịch bị từ chối trong một giờ (dấu hiệu dò thử số thẻ); xác thực bổ sung khi địa chỉ giao khác tỉnh với địa chỉ thanh toán.
+  – Ma trận quyết định: giá trị cao – rủi ro cao → rà soát thủ công; giá trị thấp – rủi ro cao → chặn tạm thời; rủi ro thấp → cho qua tự động.
+  – Quy trình xử lý: giữ đơn trước khi hàng rời kho → xác minh bổ sung (xác thực mạnh, liên hệ khách; phần lớn cảnh báo là dương tính giả) → ra quyết định có người chịu trách nhiệm (cho qua, huỷ, chuyển điều tra) → ghi nhận và hiệu chỉnh ngưỡng.
+  – Kết luận: chấm điểm rủi ro là vòng lặp — kết quả thực tế quay lại hiệu chỉnh quy tắc; không để hệ thống tự huỷ đơn mà không có người chịu trách nhiệm.
+
+--------------------------------------------------------------------------------
+CÂU 17 [VD] (Buổi 5 · Trang phao A4: Trang 3/11 · Đề cương Tr.101)
+ĐỀ BÀI: Trình bày bốn nhóm tiêu chí phân khúc và bốn điều kiện của một phân khúc dùng được. Vì sao phân khúc theo hành vi có giá trị dự báo cao nhất? Viết phát biểu định vị cho một cửa hàng trực tuyến do anh/chị tự chọn và tự kiểm tra chất lượng phát biểu đó.
+ĐÁP ÁN:
+  – Bốn nhóm: nhân khẩu học (chọn kênh, phong cách hình ảnh); địa lý (chính sách vận chuyển); hành vi (tần suất, giá trị đơn, nhóm hàng — cá nhân hoá); tâm lý, lợi ích (thông điệp định vị).
+  – Bốn điều kiện: đo lường được, tiếp cận được, đủ lớn để sinh lời, phản ứng khác biệt với thông điệp.
+  – Hành vi dự báo tốt nhất vì là nhu cầu đã xảy ra, ghi nhận tự động, cập nhật liên tục, ở mức cá nhân; giới hạn: khởi động lạnh với khách mới.
+  – Cấu trúc phát biểu: Dành cho [phân khúc] đang gặp [vấn đề], [thương hiệu] là [loại sản phẩm] mang lại [một lợi ích cốt lõi], khác đối thủ bởi [điểm khác biệt chứng minh được].
+  – Tự kiểm tra: nếu đối thủ cũng nói được đúng câu đó về họ thì chưa đạt; nêu ràng buộc kéo theo (ví dụ định vị “an toàn đã kiểm định” thì không chạy giảm giá sâu).
+  – Kết luận: phân khúc → nhắm mục tiêu → định vị phải theo đúng thứ tự.
+
+--------------------------------------------------------------------------------
+CÂU 18 [VD] (Buổi 5 · Trang phao A4: Trang 3/11 · Đề cương Tr.101)
+ĐỀ BÀI: Phễu của một cửa hàng: 10.000 phiên → 4.200 xem sản phẩm → 1.100 thêm giỏ → 620 bắt đầu thanh toán → 280 hoàn tất. (a) Tính tỷ lệ chuyển tiếp từng bước và tỷ lệ chuyển đổi toàn phễu. (b) So sánh hai phương án: A — nâng bước xem sản phẩm → thêm giỏ từ 26% lên 30%; B — nâng bước thanh toán → hoàn tất từ 45% lên 55%. Chọn điểm can thiệp và giải thích nguyên tắc.
+ĐÁP ÁN:
+  – (a) Tỷ lệ chuyển tiếp: 42% (4.200/10.000); ≈26% (1.100/4.200); ≈56% (620/1.100); ≈45% (280/620). Toàn phễu: 280/10.000 = 2,8%.
+  – (b) Phương án A: 4.200 × 4% = +168 lượt thêm giỏ; qua hai bước sau (≈56% × 45% ≈ 25%) ≈ +42 đơn.
+  – Phương án B: 620 × 10% = +62 đơn.
+  – Nguyên tắc: giá trị của cải thiện tỷ lệ thuận với số người đi vào bước đó; ưu tiên theo số tuyệt đối, không theo tỷ lệ phần trăm. Bước giữa có số người vào gấp gần bảy lần nên +4 điểm ở đó tạo ra mức tăng cùng bậc với +10 điểm ở bước cuối.
+  – Lựa chọn trong số liệu đề cho: B tạo nhiều đơn hơn (62 so với 42), nhưng quyết định cuối còn phải so lợi ích với chi phí thực hiện và tính khả thi của mức cải thiện (+10 điểm thường khó hơn +4 điểm).
+  – Lưu ý phương pháp: phải đo phễu riêng theo từng nguồn lưu lượng; tỷ lệ toàn phễu không chẩn đoán được bước yếu.
+
+--------------------------------------------------------------------------------
+CÂU 19 [LT] (Buổi 5 · Trang phao A4: Trang 4/11 · Đề cương Tr.102)
+ĐỀ BÀI: Giải thích chuỗi bốn bước hoạt động của công cụ tìm kiếm và ba trụ cột tối ưu công cụ tìm kiếm. Nêu điểm yếu đặc thù của website thương mại điện tử về nội dung trùng lặp và ba biện pháp kiểm soát.
+ĐÁP ÁN:
+  – Bốn bước: thu thập (đi theo liên kết) → kết xuất (thực thi JavaScript) → lập chỉ mục → xếp hạng; bước trước thất bại thì bước sau không xảy ra.
+  – Chẩn đoán: không có trong chỉ mục → nguyên nhân kỹ thuật ở ba bước đầu; có chỉ mục nhưng hạng thấp → nội dung và uy tín.
+  – Ba trụ cột: kỹ thuật (tốc độ, di động, sơ đồ trang, dữ liệu có cấu trúc, HTTPS); nội dung (khớp ý định, tiêu đề rõ, mô tả nguyên gốc, liên kết nội bộ); ngoài trang (liên kết từ site uy tín, đánh giá, đề cập thương hiệu). Thiếu một trụ cột là vô hiệu.
+  – Điểm yếu đặc thù: bộ lọc và sắp xếp sinh nhiều địa chỉ cho một danh mục; mô tả sản phẩm sao chép từ nhà cung cấp.
+  – Ba biện pháp: thẻ khai báo trang chuẩn trỏ về bản chính; thẻ không lập chỉ mục/tệp robots cho biến thể do bộ lọc; viết mô tả nguyên gốc.
+  – Giới hạn: mua bán liên kết vi phạm nguyên tắc công cụ tìm kiếm, có thể mất toàn bộ thứ hạng.
+
+--------------------------------------------------------------------------------
+CÂU 20 [VD] (Buổi 5 · Trang phao A4: Trang 4/11 · Đề cương Tr.102)
+ĐỀ BÀI: Một cửa hàng có đơn trung bình 450.000 đồng, khách mua trung bình 3 đơn/năm, gắn bó 2 năm, tỷ lệ lợi nhuận gộp 30%; 60% doanh thu đến từ 15% khách hàng. (a) Tính giá trị vòng đời và ngưỡng chi thu hút. (b) Phân tích đòn bẩy của giữ chân. (c) Đề xuất chiến lược cho hai nhóm khách hàng.
+ĐÁP ÁN:
+  – (a) LTV = 450.000 × 3 × 2 × 30% = 810.000 đồng; chi phí thu hút phải nhỏ hơn 810.000 đồng và cần khoảng đệm cho chi phí vận hành (theo ngưỡng LTV/CAC ≥ 3 thì CAC tối đa khoảng 270.000 đồng).
+  – (b) Tăng số năm gắn bó từ 2 lên 3 làm LTV tăng 50% (lên 1.215.000 đồng) mà không thêm chi phí quảng cáo; mô hình là dạng đơn giản hoá, chưa chiết khấu dòng tiền.
+  – (c) Nhóm 15% (giá trị cao, mua thường xuyên): tăng giá trị phi tiền tệ — dịch vụ ưu tiên, tiếp cận sản phẩm mới sớm, người phụ trách riêng; tránh giảm giá đại trà.
+  – Nhóm 85%: phân tách tiếp theo ma trận giá trị – tần suất: mua thường xuyên giá trị thấp → bán chéo, combo, ngưỡng miễn phí vận chuyển; mua thưa → tự động hoá, rà soát chi phí phục vụ; giá trị cao mua thưa → gợi nhắc theo chu kỳ, gói định kỳ.
+  – Kết luận: đồng thời giảm rủi ro tập trung doanh thu; các kênh giữ chân (thư điện tử, thành viên) phải có đồng ý và cơ chế huỷ đăng ký.
+
+--------------------------------------------------------------------------------
+CÂU 21 [VD] (Buổi 6 · Trang phao A4: Trang 4/11 · Đề cương Tr.103)
+ĐỀ BÀI: Một chiến dịch chi 24 triệu đồng, đạt 400.000 lượt hiển thị, 6.000 lượt nhấp, 120 đơn hàng, doanh thu 84 triệu đồng; tỷ lệ lợi nhuận gộp 25%. Tính CPM, CTR, CPC, CVR, CPA, ROAS, ngưỡng ROAS hoà vốn; kết luận về sinh lời và xác định tỷ lệ chuyển đổi cần đạt để hoà vốn.
+ĐÁP ÁN:
+  – CPM = 24.000.000 ÷ 400.000 × 1.000 = 60.000 đồng; CTR = 6.000 ÷ 400.000 = 1,5%.
+  – CPC = 24.000.000 ÷ 6.000 = 4.000 đồng; CVR = 120 ÷ 6.000 = 2%; CPA = CPC ÷ CVR = 200.000 đồng.
+  – ROAS = 84 ÷ 24 = 3,5; ngưỡng hoà vốn = 1 ÷ 0,25 = 4,0 → ROAS dưới ngưỡng.
+  – Lợi nhuận gộp = 84 × 25% = 21 triệu < 24 triệu chi quảng cáo → lỗ 3 triệu đồng ở mức lợi nhuận gộp (chưa tính chi phí vận hành).
+  – Giá trị đơn trung bình = 700.000 đồng → CPA tối đa = 700.000 × 25% = 175.000 đồng → CVR cần ≥ 4.000 ÷ 175.000 ≈ 2,29% để hoà vốn (giữ nguyên CPC).
+  – Kết luận: không mở rộng ngân sách khi chưa cải thiện CVR (trang đích) hoặc giá trị đơn trung bình; mở rộng sẽ làm khoản lỗ tăng theo tỷ lệ. Trình bày từng bước tính để được điểm phần.
+
+--------------------------------------------------------------------------------
+CÂU 22 [LT] (Buổi 6 · Trang phao A4: Trang 4/11 · Đề cương Tr.103)
+ĐỀ BÀI: Giải thích nguyên lý đấu giá quảng cáo (xếp hạng = giá thầu × điểm chất lượng). Vì sao cải thiện trang đích là biện pháp giảm chi phí quảng cáo hiệu quả nhưng thường bị bỏ qua?
+ĐÁP ÁN:
+  – Xếp hạng quảng cáo = giá thầu × điểm chất lượng; ba yếu tố của điểm chất lượng: tỷ lệ nhấp dự kiến, mức độ liên quan, chất lượng trang đích. Nền tảng có doanh thu tỷ lệ với lượt nhấp thực tế nên giá thầu cao nhất không bảo đảm thắng.
+  – Cơ chế giá thứ hai: người thắng trả mức vừa đủ vượt đối thủ xếp ngay sau → đặt giá thầu bằng giá trị thực của một lượt nhấp.
+  – Tác động kép của trang đích: tăng CVR → giảm CPA (CPA = CPC ÷ CVR); là một yếu tố của điểm chất lượng → giảm CPC. Hai tác động nhân với nhau.
+  – So với giảm giá thầu: giảm giá thầu hạ CPA nhưng giảm hiển thị và số đơn; tối ưu CVR hạ CPA mà giữ nguyên lưu lượng; dư địa lớn nhất khi CVR đang thấp.
+  – Lý do bị bỏ qua (tổ chức): trang đích do bộ phận kỹ thuật phụ trách, chỉ số quảng cáo do người vận hành theo dõi — người thấy vấn đề không phải người có quyền sửa; đồng thời trang đích không nằm trong bảng điều khiển quảng cáo.
+  – Kết luận: tối ưu trang đích trước khi mở rộng ngân sách.
+
+--------------------------------------------------------------------------------
+CÂU 23 [LT] (Buổi 6 · Trang phao A4: Trang 4/11 · Đề cương Tr.104)
+ĐỀ BÀI: Trình bày bốn mô hình quy kết chuyển đổi. Vì sao dùng mô hình tương tác cuối làm cơ sở phân bổ ngân sách gây rủi ro tự khuếch đại? Nêu cách kiểm chứng độc lập.
+ĐÁP ÁN:
+  – Bốn mô hình: tương tác cuối (toàn bộ công cho điểm chạm cuối); tương tác đầu (toàn bộ cho điểm đầu); tuyến tính (chia đều); suy giảm thời gian (trọng số tăng dần về điểm gần chuyển đổi).
+  – Ví dụ: hành trình bốn điểm (video mạng xã hội → bài so sánh → tiếp thị lại → tìm thương hiệu), đơn 2.000.000 đồng: tương tác cuối gán 2.000.000 cho tìm thương hiệu; tuyến tính 500.000 mỗi điểm; suy giảm thời gian 200/400/600/800 nghìn.
+  – Cơ chế tự khuếch đại: công dồn cho điểm cuối (thường là tìm kiếm thương hiệu) → kênh đầu phễu ghi nhận bằng 0 → bị cắt ngân sách → vài tháng sau truy vấn thương hiệu giảm vì không còn ai tạo nhu cầu, và không còn dữ liệu để tìm nguyên nhân.
+  – Kiểm chứng độc lập: thử nghiệm tăng thêm — tạm dừng một kênh cho một nhóm và so doanh thu với nhóm còn lại.
+  – Kết luận: không mô hình nào đúng tuyệt đối — phân bổ công là giả định; chọn mô hình theo số kênh, độ dài hành trình và luôn nêu giới hạn.
+
+--------------------------------------------------------------------------------
+CÂU 24 [VD] (Buổi 6 · Trang phao A4: Trang 4/11 · Đề cương Tr.104)
+ĐỀ BÀI: Phân tích cơ chế tạo giá trị của thương mại xã hội và bán hàng qua phát trực tiếp so với phễu website truyền thống. Nêu nghĩa vụ tuân thủ của nền tảng và của người bán, người quảng bá theo khung pháp lý hiện hành.
+ĐÁP ÁN:
+  – So sánh phễu: website — nhiều phiên, nhiều ngày (nhu cầu → tìm kiếm → so sánh → thêm giỏ → thanh toán); thương mại xã hội — một phiên (nội dung xuất hiện → tương tác → mua trong nền tảng), phễu bị nén, ít điểm rơi, loại bỏ khoảng thời gian so sánh giá.
+  – Sáu cơ chế: khám phá thay vì tìm kiếm; bằng chứng xã hội; tương tác thời gian thực; áp lực thời gian (ưu đãi giới hạn phải là giới hạn thật); hạ rào cản gia nhập; mặt trái cần quản trị (hàng giả, quảng cáo sai, khó truy trách nhiệm).
+  – Mặt trái tài chính: quyết định nhanh dựa vào cảm xúc → tỷ lệ hoàn cao → đánh giá bằng doanh thu sau hoàn hàng.
+  – Nghĩa vụ nền tảng (Luật TMĐT 122/2025/QH15, hiệu lực 01/7/2026): xác thực danh tính người bán phát trực tiếp; giải quyết khiếu nại; kiểm soát hàng giả, hàng sai mô tả; khấu trừ, nộp thuế thay.
+  – Nghĩa vụ người bán, người quảng bá: thông tin đầy đủ về hàng hoá; không quảng cáo sai về giá (kể cả nâng giá gốc); công bố rõ nội dung có tài trợ; bảo vệ dữ liệu khách hàng (Luật BVQLNTD 19/2023/QH15, Luật BVDLCN 91/2025/QH15).
+  – Kết luận: nền tảng xã hội tạo nhu cầu mới, website tích luỹ dữ liệu và bán lặp lại — hai cấu trúc bổ trợ.
+
+--------------------------------------------------------------------------------
+CÂU 25 [LT] (Buổi 7 · Trang phao A4: Trang 5/11 · Đề cương Tr.105)
+ĐỀ BÀI: Phân biệt tính bí mật và tính riêng tư. Nêu một ví dụ hệ thống bảo đảm tốt tính bí mật nhưng vẫn vi phạm tính riêng tư và chỉ ra căn cứ pháp lý liên quan.
+ĐÁP ÁN:
+  – Bí mật: câu hỏi về năng lực — ai có khả năng đọc dữ liệu; phạm trù kỹ thuật, giải bằng mã hoá khi truyền, khi lưu và kiểm soát truy cập.
+  – Riêng tư: câu hỏi về quyền — dữ liệu được dùng cho mục đích gì, có được phép không; phạm trù pháp lý và đạo đức, giải bằng cơ sở pháp lý và sự đồng ý của chủ thể dữ liệu, không bảo đảm được chỉ bằng kỹ thuật.
+  – Ví dụ: sàn mã hoá toàn bộ, không rò rỉ, nhưng bán lịch sử mua hàng cho bên thứ ba mà không thông báo.
+  – Căn cứ: Luật Bảo vệ dữ liệu cá nhân số 91/2025/QH15 (hiệu lực 01/01/2026) quy định cả nghĩa vụ về biện pháp bảo vệ lẫn nghĩa vụ về mục đích và sự đồng ý.
+  – Kết luận: hai thuộc tính độc lập; tuân thủ đòi hỏi cả hai; mật mã học không bảo đảm riêng tư.
+
+--------------------------------------------------------------------------------
+CÂU 26 [LT] (Buổi 7 · Trang phao A4: Trang 5/11 · Đề cương Tr.105)
+ĐỀ BÀI: Vì sao thực tế phải dùng mô hình mật mã lai thay vì chỉ một loại mã hoá? Mô tả các bước bắt tay TLS và nêu giới hạn của chứng thư số.
+ĐÁP ÁN:
+  – Đối xứng: rất nhanh, có hỗ trợ phần cứng nhưng chưa giải được bài toán trao khoá; số khoá tăng theo bình phương số bên. Bất đối xứng: giải được trao khoá nhưng chậm hơn nhiều.
+  – Mật mã lai: bất đối xứng chạy một lần để thoả thuận khoá phiên (vài trăm byte); đối xứng mã hoá toàn bộ dữ liệu của phiên. Lợi ích: hiệu năng, bí mật chuyển tiếp, giới hạn thiệt hại trong một phiên.
+  – Bắt tay TLS: máy khách chào (bộ thuật toán + số ngẫu nhiên) → máy chủ chọn thuật toán, gửi chứng thư → máy khách kiểm tra chứng thư (chữ ký hợp lệ, còn hạn, khớp tên miền, chưa bị thu hồi) → thoả thuận khoá phiên tạm thời → xác nhận, truyền dữ liệu mã hoá đối xứng.
+  – Chuỗi tin cậy: tổ chức chứng thực gốc (cài sẵn) → trung gian → chứng thư website.
+  – Giới hạn: chứng thư chỉ chứng minh quyền kiểm soát tên miền và kết nối được mã hoá, không chứng minh website bán hàng thật hay uy tín.
+  – Kết luận: chỉ bật phiên bản TLS hiện hành, chuyển hướng bắt buộc sang HTTPS, tự động gia hạn chứng thư.
+
+--------------------------------------------------------------------------------
+CÂU 27 [LT] (Buổi 7 · Trang phao A4: Trang 5/11 · Đề cương Tr.106)
+ĐỀ BÀI: Mô tả cơ chế tạo và kiểm tra chữ ký số. Giải thích vì sao chữ ký số đồng thời bảo đảm tính toàn vẹn, tính xác thực và chống phủ nhận, và nêu giá trị pháp lý của chữ ký số tại Việt Nam.
+ĐÁP ÁN:
+  – Tạo: bên ký băm tài liệu → mã hoá giá trị băm bằng khoá riêng tư → được chữ ký.
+  – Kiểm tra (hai nhánh song song): giải mã chữ ký bằng khoá công khai của bên ký; tự băm tài liệu nhận được; so sánh hai giá trị.
+  – Toàn vẹn: sửa một ký tự làm giá trị băm khác hoàn toàn → so sánh thất bại. Xác thực: chỉ khoá công khai đúng mới giải mã được chữ ký tương ứng. Chống phủ nhận: chỉ người giữ khoá riêng tư tạo được chữ ký đó.
+  – Phân biệt: hàm băm không phải mã hoá (một chiều, không khoá); chữ ký số không làm tài liệu bí mật.
+  – Giá trị pháp lý: Luật Giao dịch điện tử số 20/2023/QH15 — chữ ký số an toàn, do tổ chức chứng thực được cấp phép cung cấp, có giá trị như chữ ký tay và con dấu; là cơ sở của hợp đồng và hoá đơn điện tử.
+  – Kết luận: chữ ký số là công cụ duy nhất trong bốn công cụ mật mã bảo đảm chống phủ nhận.
+
+--------------------------------------------------------------------------------
+CÂU 28 [VD] (Buổi 7 · Trang phao A4: Trang 5/11 · Đề cương Tr.106)
+ĐỀ BÀI: Một cửa hàng trực tuyến phát hiện máy chủ bị xâm nhập. Trình bày quy trình ứng phó sự cố bốn giai đoạn, giải thích vì sao phải lưu bằng chứng trước khi khởi động lại hệ thống, và nêu vai trò của hai chỉ số thời gian phục hồi mục tiêu và điểm phục hồi mục tiêu.
+ĐÁP ÁN:
+  – G1 Phát hiện, phân loại: xác nhận sự cố, phạm vi, mức nghiêm trọng, kích hoạt đội ứng phó (danh sách liên hệ có trước).
+  – G2 Cô lập: ngắt khỏi mạng, thu hồi thông tin đăng nhập, chặn đường xâm nhập — lưu bằng chứng trước khi thay đổi hệ thống.
+  – G3 Khắc phục: xác định thời điểm xâm nhập, phục hồi bản sao lưu sạch có trước thời điểm đó, vá lỗ hổng, xác minh hoạt động bình thường.
+  – G4 Thông báo, rút kinh nghiệm: thông báo người bị ảnh hưởng và cơ quan chức năng theo Luật BVDLCN 91/2025/QH15 và Luật An ninh mạng 116/2025/QH15; phân tích nguyên nhân gốc, cập nhật chính sách.
+  – Lý do lưu bằng chứng: khởi động lại xoá dữ liệu bộ nhớ và nhật ký tạm → không biết đường xâm nhập → bị xâm nhập lại theo đúng đường đó; bằng chứng là cơ sở trình báo và làm việc với bảo hiểm. Cách làm: sao chép nhật ký sang nơi riêng, chụp trạng thái hệ thống.
+  – Hai chỉ số: thời gian phục hồi mục tiêu (chấp nhận ngừng bao lâu) và điểm phục hồi mục tiêu (chấp nhận mất dữ liệu bao lâu gần nhất) do lãnh đạo quyết định, quyết định tần suất sao lưu và kiến trúc dự phòng.
+
+--------------------------------------------------------------------------------
+CÂU 29 [LT] (Buổi 8 · Trang phao A4: Trang 5/11 · Đề cương Tr.107)
+ĐỀ BÀI: Trình bày hệ thống văn bản pháp luật đang có hiệu lực điều chỉnh thương mại điện tử tại Việt Nam (số hiệu, thời điểm hiệu lực, nội dung chính). Vì sao phải kiểm tra hiệu lực trước khi trích dẫn?
+ĐÁP ÁN:
+  – Luật Thương mại điện tử 122/2025/QH15 (01/7/2026): đạo luật chuyên ngành đầu tiên — định danh người bán, trách nhiệm nền tảng, phát trực tiếp, xuyên biên giới, phát triển bền vững.
+  – Luật Giao dịch điện tử 20/2023/QH15 (01/7/2024): giá trị pháp lý của thông điệp dữ liệu, chữ ký điện tử, hợp đồng điện tử, dịch vụ tin cậy.
+  – Luật Bảo vệ quyền lợi người tiêu dùng 19/2023/QH15 (01/7/2024): chương riêng về giao dịch trên không gian mạng, trách nhiệm nền tảng số trung gian.
+  – Luật Bảo vệ dữ liệu cá nhân 91/2025/QH15 (01/01/2026): thay Nghị định 13/2023 — nguyên tắc xử lý, quyền chủ thể, thông báo vi phạm.
+  – Luật An ninh mạng 116/2025/QH15 (01/7/2026): thay Luật ATTT mạng 2015 và Luật ANM 2018; an ninh dữ liệu; cấm dùng AI giả mạo, lừa đảo. Nghị định 52/2013, 85/2021 áp dụng chuyển tiếp trong phần không trái luật mới.
+  – Lý do kiểm tra hiệu lực: khung pháp lý thay đổi trong 2025–2026; tài liệu trước 2025 vẫn dùng được phần phân tích nghiệp vụ nhưng phần dẫn chiếu văn bản phải đối chiếu lại; doanh nghiệp phải rà soát quy trình trong năm 2026.
+
+--------------------------------------------------------------------------------
+CÂU 30 [LT] (Buổi 8 · Trang phao A4: Trang 5/11 · Đề cương Tr.107)
+ĐỀ BÀI: Vì sao Luật Thương mại điện tử 2025 đặt nghĩa vụ giám sát lên nền tảng thay vì lên từng người bán? Phân tích tác động của thay đổi này tới nền tảng, người bán nhỏ và người tiêu dùng.
+ĐÁP ÁN:
+  – Mô hình trước: nền tảng chỉ cung cấp hạ tầng; cơ quan quản lý tìm và xử lý từng người bán — hàng triệu người bán, tài khoản mới tạo trong vài giờ, không giám sát được.
+  – Mô hình từ 01/7/2026: nền tảng xác thực người bán, xử lý khiếu nại, gỡ sản phẩm vi phạm, khấu trừ thuế thay.
+  – Lý do (khả năng thực thi): nền tảng có ba thứ cơ quan quản lý không có — dữ liệu đầy đủ, công cụ phát hiện bất thường tự động, quyền khoá tài khoản có hiệu lực tức thì; nghĩa vụ chuyển tới nơi thực thi được.
+  – Tác động: nền tảng — chi phí tuân thủ tăng và có tính cố định, gián tiếp tạo lợi thế cho nền tảng lớn; người bán nhỏ — thủ tục gia nhập chặt hơn, đổi lại môi trường cạnh tranh công bằng hơn (người bán chính danh có lợi thế); người tiêu dùng — có một địa chỉ xác định để khiếu nại.
+  – Kết luận: nghĩa vụ dồn về nơi có dữ liệu, công cụ phát hiện và quyền chế tài.
+
+--------------------------------------------------------------------------------
+CÂU 31 [VD] (Buổi 8 · Trang phao A4: Trang 6/11 · Đề cương Tr.107)
+ĐỀ BÀI: Biểu mẫu đặt hàng của một cửa hàng thu: họ tên, điện thoại, địa chỉ, thư điện tử, ngày sinh, giới tính; ô “đồng ý nhận quảng cáo” được đánh dấu sẵn và gộp với ô đồng ý điều khoản mua. Phân tích theo sáu nguyên tắc bảo vệ dữ liệu cá nhân và đề xuất thiết kế lại.
+ĐÁP ÁN:
+  – Sáu nguyên tắc: hợp pháp, minh bạch, giới hạn mục đích, tối thiểu hoá, chính xác, an ninh; nghĩa vụ bổ sung: đánh giá tác động, thông báo vi phạm (Luật BVDLCN 91/2025/QH15).
+  – Phân loại trường: họ tên, điện thoại, địa chỉ, thư điện tử — cơ sở thực hiện hợp đồng, không cần đồng ý riêng nhưng phải thông báo mục đích, thời gian lưu; ngày sinh, giới tính — không cần cho giao hàng → bỏ, hoặc để tuỳ chọn, nêu mục đích, có đồng ý riêng (ngoại lệ: hàng hoá giới hạn độ tuổi).
+  – Vi phạm về đồng ý: ô đánh dấu sẵn (đồng ý không chủ động); gộp với điều khoản mua (người mua không thể mua mà không nhận quảng cáo).
+  – Thiết kế lại: ô đồng ý nhận quảng cáo để trống, tách riêng; chính sách quyền riêng tư tiếp cận được trước khi đặt hàng (thu gì, để làm gì, lưu bao lâu, chia sẻ với ai); trang xem, sửa thông tin; huỷ đăng ký hoạt động được; mã theo dõi không thiết yếu chỉ nạp sau đồng ý.
+  – Kết luận: tối thiểu hoá có lợi ích kép — giảm rủi ro pháp lý và giảm thiệt hại khi rò rỉ; đồng thời giảm số trường làm tăng chuyển đổi.
+
+--------------------------------------------------------------------------------
+CÂU 32 [VD] (Buổi 8 · Trang phao A4: Trang 6/11 · Đề cương Tr.108)
+ĐỀ BÀI: Website niêm yết nhầm giá một máy tính xách tay là 1.990.000 đồng thay vì 19.900.000 đồng; khách đã đặt hàng. Phân tích nghĩa vụ của bên bán theo các phương án xác định thời điểm hình thành hợp đồng điện tử. Doanh nghiệp nên quy định gì trong điều khoản bán hàng và nên dùng loại chữ ký nào cho hợp đồng, hoá đơn?
+ĐÁP ÁN:
+  – Luật Giao dịch điện tử 20/2023/QH15: thông điệp dữ liệu không bị phủ nhận giá trị chỉ vì ở dạng điện tử; thời điểm, địa điểm giao kết hợp đồng điện tử quyết định nghĩa vụ và thẩm quyền.
+  – Phương án 1 — hợp đồng hình thành khi khách bấm đặt hàng: bên bán buộc phải giao theo giá đã hiển thị, kể cả khi niêm yết sai.
+  – Phương án 2 — hợp đồng hình thành khi bên bán xác nhận đơn: bên bán có quyền từ chối đơn trước khi xác nhận, với điều kiện điều khoản bán hàng đã công bố trước.
+  – Điều khoản bán hàng nên quy định: thời điểm hợp đồng hình thành; quyền từ chối đơn trong trường hợp cụ thể (ví dụ lỗi niêm yết rõ ràng); không đặt quyền từ chối tuỳ ý không giới hạn; ngôn ngữ dễ hiểu.
+  – Chữ ký: ba mức (ảnh chữ ký — chứng minh yếu; chữ ký số tự phát hành — phải tự chứng minh chuỗi tin cậy; chữ ký số công cộng đã cấp phép — tương đương chữ ký tay và con dấu, bắt buộc cho hoá đơn điện tử). Mức đầu tư tương xứng giá trị và rủi ro giao dịch.
+  – Kết luận: rủi ro pháp lý được xử lý từ khâu thiết kế điều khoản trước khi phát sinh sự cố.
+
+--------------------------------------------------------------------------------
+CÂU 33 [LT] (Buổi 9 · Trang phao A4: Trang 6/11 · Đề cương Tr.109)
+ĐỀ BÀI: Trình bày quy trình bảy bước xây dựng website thương mại điện tử và đường cong chi phí sửa sai. Vì sao không thể thiết kế giao diện trước khi làm kiến trúc thông tin?
+ĐÁP ÁN:
+  – Bảy bước: mục tiêu (có con số, mốc thời gian) → yêu cầu (đặc tả từng chức năng) → kiến trúc (sơ đồ trang, cây danh mục) → giao diện (khung trước, màu sau) → phát triển (cài đặt, tích hợp) → kiểm thử → cải tiến (ra mắt là điểm bắt đầu).
+  – Đường cong chi phí: cùng một sai sót — vài giờ khi phân tích (sửa tài liệu), vài ngày khi lập trình (sửa mã nguồn), vài tuần khi vận hành (xử lý dữ liệu thật).
+  – Kiến trúc trước giao diện: giao diện là cách trình bày của cấu trúc — cần biết số cấp danh mục, nội dung từng trang, đường đi giữa các trang.
+  – Hệ quả nếu đảo: cấu trúc bị uốn theo bản thiết kế đã duyệt — danh mục sắp theo cách vừa bố cục thay vì cách khách tìm kiếm; sửa về sau tốn kém theo đường cong chi phí.
+  – Kết luận: thứ tự bảy bước không đảo được; yêu cầu pháp lý (buổi 8) phải vào ở bước yêu cầu.
+
+--------------------------------------------------------------------------------
+CÂU 34 [VD] (Buổi 9 · Trang phao A4: Trang 6/11 · Đề cương Tr.109)
+ĐỀ BÀI: Cửa hàng 40 sản phẩm, đội hai người không có kỹ năng vận hành máy chủ, cần ra mắt trong một tháng. Dùng khung bốn tiêu chí để chọn giữa mã nguồn mở, dịch vụ trọn gói và tự phát triển; nêu điều kiện kiểm tra trước khi ký hợp đồng.
+ĐÁP ÁN:
+  – Ba phương án: mã nguồn mở (lõi miễn phí, tuỳ biến sâu, sở hữu dữ liệu; rủi ro lớn nhất là không vá lỗi → bị tấn công tự động); dịch vụ trọn gói (nhà cung cấp lo hạ tầng, bảo mật, triển khai nhanh; chi phí định kỳ tăng theo doanh thu, giới hạn tuỳ biến); tự phát triển (kiểm soát hoàn toàn; chi phí, rủi ro cao nhất; bán lẻ thông thường không có cơ sở kinh tế).
+  – Bốn tiêu chí: năng lực đội ngũ (cao nhất), đặc thù nghiệp vụ, tổng chi phí 3–5 năm (gồm chi phí ngừng hoạt động), di chuyển dữ liệu.
+  – Áp dụng: năng lực — không vận hành máy chủ được thì mã nguồn mở không được vá lỗi; thời gian — một tháng không đủ tự phát triển; quy mô — 40 sản phẩm không có nghiệp vụ đặc thù. Ba ràng buộc cùng chỉ về dịch vụ trọn gói.
+  – Điều kiện kiểm tra: xuất được toàn bộ dữ liệu ra định dạng chuẩn; chi phí ở mức doanh thu dự kiến sau hai năm vẫn chấp nhận được.
+  – Kết luận: điểm quyết định không phải công nghệ nào hiện đại hơn mà là ai vận hành được nó.
+
+--------------------------------------------------------------------------------
+CÂU 35 [VD] (Buổi 9 · Trang phao A4: Trang 6/11 · Đề cương Tr.110)
+ĐỀ BÀI: Trang thanh toán là điểm có giá trị cải thiện cao nhất. Đề xuất các yêu cầu thiết kế trang thanh toán, nối mỗi yêu cầu với nguyên nhân rơi mà nó giải quyết và với yêu cầu pháp lý tương ứng (nếu có).
+ĐÁP ÁN:
+  – Hiển thị đủ chi phí sớm ↔ phí xuất hiện muộn (nguyên nhân số một) ↔ nghĩa vụ công khai giá, quyền được thông tin.
+  – Thanh toán không cần tài khoản ↔ rào cản ngoài mục đích mua ↔ tối thiểu hoá dữ liệu.
+  – Thanh tiến trình rõ ràng ↔ không biết còn mấy bước nên bỏ giữa đường.
+  – Tự điền địa chỉ ↔ gõ nhiều trên bàn phím điện thoại; đúng loại bàn phím cho từng trường.
+  – Kiểm tra lỗi ngay tại trường ↔ lỗi dồn ở đầu trang, khách phải tự tìm trường sai.
+  – Đủ phương thức phổ biến (mã QR, ví điện tử) ↔ thiếu cách trả quen dùng ↔ quyền được lựa chọn.
+  – Bổ sung trải nghiệm di động: vùng chạm tối thiểu 44×44 điểm ảnh, nút thanh toán cố định ở vùng ngón cái.
+  – Nguyên tắc: thanh toán không phải nơi thu thập dữ liệu cho marketing — việc đó làm sau khi đơn hoàn tất.
+
+--------------------------------------------------------------------------------
+CÂU 36 [LT] (Buổi 9 · Trang phao A4: Trang 6/11 · Đề cương Tr.110)
+ĐỀ BÀI: Trình bày sáu nhóm kiểm thử bắt buộc trước khi ra mắt website và vòng lặp bốn bước cải tiến sau ra mắt. Nêu các quy tắc thiết kế thử nghiệm A/B.
+ĐÁP ÁN:
+  – Sáu nhóm kiểm thử: chức năng theo luồng (đi hết luồng mua, kể cả ngoại lệ: hết hàng giữa lúc thanh toán, thanh toán thất bại, bấm quay lại); thiết bị thật (tối thiểu một Android, một iOS); hiệu năng (mạng di động, lần đầu truy cập); an toàn (HTTPS toàn site, không lộ lỗi chi tiết, kiểm tra dữ liệu phía máy chủ, không để thông tin đăng nhập trong mã); tuân thủ (đối chiếu danh mục buổi 8); sao lưu và phục hồi (phải thử phục hồi thật).
+  – Vòng lặp cải tiến: đo (phễu theo nguồn — cài công cụ trước khi ra mắt) → chẩn đoán (bước có số người rơi tuyệt đối lớn nhất) → giả thuyết (thay đổi gì, chỉ số nào, mức bao nhiêu) → thử nghiệm A/B.
+  – Quy tắc A/B: chia lưu lượng hai nhóm tương đương; mỗi lần chỉ thay đổi một thứ; xác định chỉ số và điều kiện dừng trước khi bắt đầu; với lưu lượng nhỏ, chênh lệch có thể chỉ do ngẫu nhiên.
+  – Kết luận: ra mắt là điểm bắt đầu; không có dữ liệu nền thì không đánh giá được thay đổi.
+
+--------------------------------------------------------------------------------
+CÂU 37 [VD] (Buổi 10 · Trang phao A4: Trang 7/11 · Đề cương Tr.111)
+ĐỀ BÀI: Phân tích bốn rủi ro khi ứng dụng trí tuệ nhân tạo trong thương mại điện tử và biện pháp kiểm soát. Vận dụng vào tình huống trợ lý hội thoại tư vấn sai chính sách bảo hành dẫn tới khiếu nại.
+ĐÁP ÁN:
+  – Tính chính xác và trách nhiệm: hệ thống có thể tạo câu trả lời nghe hợp lý nhưng sai; doanh nghiệp chịu trách nhiệm → câu hỏi về cam kết, bảo hành, hoàn tiền chuyển người thật.
+  – Thiên lệch và công bằng: hệ chấm điểm gian lận từ chối tỷ lệ cao ở một số địa bàn do dữ liệu lịch sử ít → đo tỷ lệ từ chối theo nhóm, rà soát khi chênh lệch lớn.
+  – Dữ liệu cá nhân: huấn luyện bằng dữ liệu hành vi là một mục đích xử lý → cần cơ sở pháp lý và thông báo (nối buổi 8).
+  – Phụ thuộc và chi phí ẩn: chi phí theo khối lượng tăng ở cao điểm → hạn mức chi phí, ước tính ở mức cao điểm.
+  – Tình huống: trợ lý là kênh thông tin chính thức, thông tin có giá trị như từ nhân viên; nhà cung cấp phần mềm không thay đổi trách nhiệm với khách. Phòng ngừa: tự động hoá câu hỏi rủi ro thấp (giờ mở cửa, tình trạng đơn, thông số); chuyển người thật các câu hỏi chính sách; hiển thị rõ là hệ thống tự động; lưu nhật ký làm chứng cứ (nội dung hai chiều, dấu thời gian, chống sửa bằng hàm băm hoặc chữ ký số).
+  – Kết luận: bắt đầu từ ứng dụng có dữ liệu sẵn và rủi ro thấp.
+
+--------------------------------------------------------------------------------
+CÂU 38 [LT] (Buổi 10 · Trang phao A4: Trang 7/11 · Đề cương Tr.111)
+ĐỀ BÀI: Trình bày quy trình sáu bước hoàn tất đơn hàng, hai điểm rủi ro cao nhất và sự khác biệt giữa tồn kho khả dụng và tồn kho vật lý. So sánh hai mô hình kho vận.
+ĐÁP ÁN:
+  – Sáu bước: tiếp nhận (kiểm thanh toán, tồn khả dụng) → chọn hàng → đóng gói → giao vận chuyển → giao chặng cuối (thu tiền hộ) → sau giao (đối soát, đổi trả).
+  – Rủi ro 1 — tiếp nhận: tồn khả dụng = tồn vật lý − đã giữ cho đơn chưa xuất; dùng tồn vật lý để xác nhận sẽ xác nhận vượt số hàng thực có → huỷ đơn sau khi khách đã trả tiền.
+  – Rủi ro 2 — chặng cuối: giao lại phát sinh chi phí không tạo doanh thu (giao lại, lưu kho tạm, chuyển hàng về với COD); chặng cuối là điểm chạm vật lý duy nhất, quyết định trải nghiệm.
+  – Tự vận hành kho: kiểm soát chất lượng đóng gói, trải nghiệm mở hàng; chi phí cố định cao, khó co giãn; phù hợp hàng đặc thù, cao cấp, quy mô lớn ổn định.
+  – Dịch vụ hoàn tất đơn: chi phí biến đổi theo số đơn, co giãn mùa vụ, không cần đầu tư kho; mất kiểm soát trải nghiệm mở hàng; phù hợp giai đoạn đầu, hàng tiêu chuẩn, khối lượng biến động.
+  – Kết luận: thực tiễn thường kết hợp hai mô hình; logistics là nơi lời hứa của website được kiểm chứng.
+
+--------------------------------------------------------------------------------
+CÂU 39 [VD] (Buổi 10 · Trang phao A4: Trang 7/11 · Đề cương Tr.112)
+ĐỀ BÀI: Một cửa hàng thời trang có tỷ lệ hoàn hàng 18%, thời gian từ đặt hàng tới khi khách nhận trung bình 5 ngày, chi phí logistics mỗi đơn đang tiến gần lợi nhuận gộp mỗi đơn. Dùng hệ sáu chỉ số logistics để chẩn đoán và đề xuất hướng cải thiện.
+ĐÁP ÁN:
+  – Sáu chỉ số: thời gian xử lý đơn (nội bộ); thời gian giao hàng (đối tác); giao thành công lần đầu; tỷ lệ hoàn hàng (tách theo nguyên nhân); độ chính xác đơn hàng; chi phí logistics mỗi đơn (so với lợi nhuận gộp mỗi đơn).
+  – Tách 5 ngày thành hai chỉ số: nếu phần lớn là xử lý đơn → cải thiện nội bộ (chọn hàng, đóng gói); nếu phần lớn là giao hàng → đổi đối tác hoặc phương thức. Gộp chung thì không biết cải thiện ở đâu.
+  – Tách tỷ lệ hoàn 18% theo nguyên nhân: hàng lỗi → chất lượng nhà cung cấp; sai mô tả → trang sản phẩm; sai cỡ (thường cao với thời trang) → bảng kích cỡ; giao không thành → kiểm tra địa chỉ khi đặt, báo trước giờ giao.
+  – Chi phí logistics tiến gần lợi nhuận gộp: nếu vượt thì tăng doanh số làm lỗ nhanh hơn → xem lại ngưỡng miễn phí vận chuyển (cao hơn đơn trung bình một mức vừa phải), giảm hoàn hàng, đóng gói tối ưu.
+  – Kết luận: mỗi chỉ số chỉ ra một loại vấn đề và một bên chịu trách nhiệm; giảm hoàn hàng vừa có lợi kinh tế vừa giảm phát thải (thương mại điện tử xanh).
+
+--------------------------------------------------------------------------------
+CÂU 40 [VD] (Buổi 10 · Trang phao A4: Trang 7/11 · Đề cương Tr.112)
+ĐỀ BÀI: Một doanh nghiệp Việt Nam muốn mở rộng từ bán trong nước sang xuất khẩu trực tuyến. Phân tích năm rào cản xuyên biên giới và trình bày ba nhóm việc cần chuẩn bị theo thứ tự phụ thuộc.
+ĐÁP ÁN:
+  – Lợi ích chiều xuất khẩu: biên lợi nhuận cao hơn gia công, giữ phần giá trị thương hiệu, có dữ liệu khách hàng; doanh nghiệp nhỏ tiếp cận thị trường quốc tế mà không cần phân phối vật lý ở nước ngoài.
+  – Năm rào cản: thủ tục, tuân thủ (ghi nhãn ngôn ngữ bản địa); logistics, chi phí (vận chuyển quốc tế cao so với đơn nhỏ); thanh toán, tỷ giá; ngôn ngữ, văn hoá (dịch máy nguyên văn gây phản cảm); niềm tin thương hiệu.
+  – Hệ quả logistics: sản phẩm có tỷ lệ giá trị trên khối lượng thấp gần như không khả thi.
+  – Ba nhóm việc: (1) định vị lại — chọn một thị trường đích, xác định phân khúc, viết lại phát biểu định vị; (2) bản địa hoá — người bản địa hiệu đính nội dung, tích hợp phương thức thanh toán phổ biến ở nước đích, niêm yết có biên độ tỷ giá; (3) vận hành và tuân thủ — logistics quốc tế, quy định nhập khẩu và ghi nhãn, quy định bảo vệ dữ liệu của nước đích (hay bị bỏ sót).
+  – Chiến thuật niềm tin: bán qua sàn lớn ở nước đích để tích luỹ đánh giá trước, rồi xây kênh riêng.
+  – Kết luận: không chuyển nguyên định vị và cách vận hành trong nước sang thị trường quốc tế.
+
+--------------------------------------------------------------------------------
+CÂU 41 [VD] (Buổi 11 · Trang phao A4: Trang 7/11 · Đề cương Tr.113)
+ĐỀ BÀI: Thiết kế lược đồ dữ liệu sản phẩm và cây danh mục cho cửa hàng 40 sản phẩm đồ dùng học tập (bài thực hành buổi 11). Giải thích cách phân nhóm trường dữ liệu, quy tắc mã sản phẩm, giới hạn độ sâu danh mục và cách chọn thuộc tính lọc.
+ĐÁP ÁN:
+  – Nhóm trường bắt buộc để bán: mã sản phẩm, tên, giá bán, ảnh, tồn kho (thiếu một trường thì không bán được).
+  – Nhóm bắt buộc để phân tích: danh mục, giá vốn, thuộc tính lọc — thiếu giá vốn thì buổi 13 không tính được lợi nhuận gộp và ngưỡng ROAS hoà vốn.
+  – Nhóm nên có: trọng lượng, kích thước (tính phí vận chuyển), mô tả ngắn, từ khoá (tối ưu tìm kiếm).
+  – Mã sản phẩm: tự đặt theo quy tắc mang thông tin; không dùng số tự tăng của cơ sở dữ liệu (đổi khi nhập lại). Tối thiểu hoá dữ liệu áp dụng cho dữ liệu khách hàng, không cho dữ liệu sản phẩm.
+  – Cây danh mục: trang chủ → 5–7 danh mục lớn → danh mục con → sản phẩm, không quá ba lần bấm; tên danh mục kiểm tra bằng dữ liệu từ khoá; sản phẩm thuộc nhiều danh mục thì chọn danh mục chính, liên kết mềm, khai báo địa chỉ chuẩn.
+  – Bộ lọc: 3–5 thuộc tính khách dùng để loại trừ lựa chọn (ví dụ khối lớp, khoảng giá, có kiểm định an toàn); địa chỉ đổi khi áp lọc và chia sẻ lại được.
+
+--------------------------------------------------------------------------------
+CÂU 42 [VD] (Buổi 12 · Trang phao A4: Trang 7/11 · Đề cương Tr.113)
+ĐỀ BÀI: Lập kế hoạch kiểm thử sáu luồng thanh toán cho cửa hàng của nhóm (bài thực hành buổi 12). Giải thích vì sao trường hợp “kết quả thanh toán tới muộn” là nguy hiểm nhất và trình bày giải pháp kỹ thuật.
+ĐÁP ÁN:
+  – Nguyên tắc: dùng bộ thẻ giả lập của nhà cung cấp, không dùng thẻ thật; ghi nhật ký kiểm thử (trường hợp, kết quả quan sát, ảnh minh chứng); chỉ có luồng thành công bị coi là chưa kiểm thử.
+  – Sáu luồng và kết quả mong đợi: (1) thành công — đơn tạo đúng, trừ tồn kho, gửi thư xác nhận; (2) bị từ chối — không tạo đơn, thông báo rõ kèm hướng dẫn thử lại; (3) hết hạn mức — giữ nguyên giỏ, gợi ý phương thức khác; (4) đóng trang giữa lúc trả — giỏ còn nguyên (hay bị bỏ qua nhất); (5) kết quả tới muộn; (6) hết hàng khi đang trả — không nhận tiền cho hàng không còn.
+  – Vì sao (5) nguy hiểm nhất: có thể trừ tiền mà không có đơn, hoặc tạo hai đơn cho một lần trả; liên quan trực tiếp tới tiền của khách và đối soát.
+  – Giải pháp: mỗi giao dịch có một mã tham chiếu duy nhất; hệ thống kiểm tra mã trước khi tạo hoặc cập nhật đơn (xử lý lặp lại an toàn); chỉ cập nhật trạng thái theo thông báo máy chủ tới máy chủ có kiểm tra chữ ký; truy vấn lại trạng thái khi nghi ngờ.
+  – Kết luận: phần khó của hệ thống thanh toán là luồng thất bại, không phải luồng thành công (nối buổi 4).
+
+--------------------------------------------------------------------------------
+CÂU 43 [VD] (Buổi 13 · Trang phao A4: Trang 8/11 · Đề cương Tr.114)
+ĐỀ BÀI: Dữ liệu 30 ngày của cửa hàng: Nguồn tự nhiên — 3.000 phiên, 1.500 xem sản phẩm, 450 thêm giỏ, 270 thanh toán, 135 hoàn tất. Nguồn quảng cáo — 2.000 phiên, 1.200 xem sản phẩm, 180 thêm giỏ, 108 thanh toán, 54 hoàn tất. (a) Lập phễu theo từng nguồn và phễu gộp. (b) Chẩn đoán mắt xích yếu và so sánh hai phương án: A — nâng tỷ lệ xem sản phẩm → thêm giỏ của nguồn quảng cáo từ 15% lên 20%; B — nâng tỷ lệ thanh toán → hoàn tất của toàn bộ lưu lượng từ 50% lên 54%. (c) Với đơn trung bình 250.000 đồng, 2,5 đơn/năm, gắn bó 2 năm, tỷ lệ lợi nhuận gộp bình quân có trọng số 32%, tính LTV, CAC tối đa (LTV/CAC ≥ 3) và CPC tối đa cho nguồn quảng cáo.
+ĐÁP ÁN:
+  – (a) Tự nhiên: 50% → 30% → 60% → 50%; toàn phễu 4,5%. Quảng cáo: 60% → 15% → 60% → 50%; toàn phễu 2,7%. Gộp: 5.000 → 2.700 (54%) → 630 (≈23,3%) → 378 (60%) → 189 (50%); toàn phễu ≈3,78%.
+  – (b) Mắt xích yếu: bước xem sản phẩm → thêm giỏ của nguồn quảng cáo (15% so với 30% của tự nhiên) — dấu hiệu thông điệp quảng cáo và trang đích không khớp; phễu gộp (23,3%) che mất chênh lệch này.
+  – Phương án A: 1.200 × 5% = +60 lượt thêm giỏ × 60% × 50% ≈ +18 đơn. Phương án B: 378 × 4% ≈ +15 đơn. Theo phép tính, A cho nhiều đơn hơn; quyết định cuối còn phải so chi phí thực hiện.
+  – (c) LTV = 250.000 × 2,5 × 2 × 32% = 400.000 đồng; CAC tối đa = 400.000 ÷ 3 ≈ 133.000 đồng; CPC tối đa = 133.000 × 2,7% ≈ 3.600 đồng.
+  – Lưu ý: 5.000 phiên đủ để tính tỷ lệ nhưng vẫn nêu giới hạn dữ liệu 30 ngày; số năm gắn bó là giả định phải ghi rõ căn cứ; tỷ lệ gộp phải bình quân có trọng số theo doanh thu.
+  – Kết luận: phễu gộp chỉ được nửa điểm; kết luận không có phép tính không được tính điểm.
+
+--------------------------------------------------------------------------------
+CÂU 44 [VD] (Buổi 14 · Trang phao A4: Trang 8/11 · Đề cương Tr.114)
+ĐỀ BÀI: Tình huống seminar: tỷ lệ lợi nhuận gộp 28%. Chiến dịch A (tìm kiếm thương hiệu) 30 triệu/tháng, ROAS 4,2; B (mạng xã hội) 45 triệu, ROAS 2,8; C (video ngắn, nhận biết) 25 triệu, ROAS 1,6. Với vai trò nhóm trình bày, hãy phân tích đề xuất “tắt B và C, dồn toàn bộ ngân sách vào A”; với vai trò nhóm phản biện, nêu ba câu hỏi phản biện có chất lượng.
+ĐÁP ÁN:
+  – Ngưỡng ROAS hoà vốn = 1 ÷ 0,28 ≈ 3,57; theo số liệu bề mặt chỉ A vượt ngưỡng.
+  – Lập luận 1 — giới hạn mở rộng: A đang nhắm tập khán giả ý định cao nhất; tăng ngân sách buộc mở sang nhóm ý định thấp hơn → ROAS không phải hằng số theo ngân sách.
+  – Lập luận 2 — quy kết: chưa rõ mô hình quy kết; nếu là tương tác cuối thì C (và một phần B) bị đánh giá thấp hệ thống, trong khi tìm kiếm thương hiệu chỉ ghi nhận nhu cầu do kênh đầu phễu tạo ra.
+  – Lập luận 3 — sai chỉ số cho vai trò: C ở giai đoạn nhận biết, đo bằng ROAS là sai chỉ số; cần đo tiếp cận, lượt tìm kiếm thương hiệu, hoặc thử nghiệm tăng thêm.
+  – Đề xuất hợp lý: giữ A, tối ưu B (trang đích, CVR) với ngưỡng dừng đặt trước, chạy thử nghiệm tăng thêm cho C trước khi cắt; nêu rõ giả định.
+  – Ba câu hỏi phản biện mẫu: (1) giả định chưa kiểm chứng — ROAS của A có giữ nguyên khi tăng gấp ba ngân sách? (2) dữ liệu bị bỏ qua — mô hình quy kết và xu hướng truy vấn thương hiệu khi tắt C? (3) phương án chưa xét — cải thiện trang đích của B thay vì tắt?
+
+--------------------------------------------------------------------------------
+CÂU 45 [LT] (Buổi 15 · Trang phao A4: Trang 8/11 · Đề cương Tr.115)
+ĐỀ BÀI: Trình bày bản đồ học phần theo ba khối kiến thức và ba mối liên kết xuyên buổi. Với mỗi liên kết, nêu một ví dụ cụ thể từ bài tập lớn của nhóm (hoặc một cửa hàng giả định).
+ĐÁP ÁN:
+  – Ba khối: nền tảng (buổi 1–4: khái niệm, mô hình, hạ tầng, thanh toán — điều kiện để giao dịch tồn tại); tăng trưởng (buổi 5–6: marketing, quảng cáo — làm sao có khách); bảo vệ và xây dựng (buổi 7–10: an toàn, pháp luật, thiết kế, xu hướng — giữ điều kiện tồn tại của doanh thu).
+  – Liên kết 1 — phễu là công cụ chẩn đoán chung: phễu buổi 5 dùng lại ở buổi 6 và 9; sáu nguyên nhân bỏ giỏ thành yêu cầu thiết kế. Ví dụ: phễu buổi 13 chỉ ra bước thanh toán yếu → thiết kế lại trang thanh toán (hiện phí sớm, thanh toán không tài khoản).
+  – Liên kết 2 — giá trị vòng đời chặn ngân sách: LTV buổi 5 quyết định ngưỡng chi buổi 6. Ví dụ: LTV 810.000 đồng → CAC tối đa 270.000 đồng → CPC tối đa theo CVR đã đo.
+  – Liên kết 3 — pháp lý thành chức năng: yêu cầu buổi 8 thành yêu cầu chức năng buổi 9; biện pháp kỹ thuật buổi 7 là cách thực hiện một phần. Ví dụ: tối thiểu hoá → biểu mẫu bỏ ngày sinh; quyền chủ thể → trang xem, sửa thông tin; bí mật → HTTPS toàn site.
+  – Kết luận: giá trị học phần là tư duy tích hợp; người chỉ mạnh một mặt sẽ ra quyết định sai ở các mặt khác mà không nhận ra.
+
+--------------------------------------------------------------------------------
+CÂU 46 [MO] (Câu mở tổng hợp · Trang phao A4: Trang 8/11 · Đề cương Tr.116)
+ĐỀ BÀI: “Thương mại điện tử không loại bỏ bán lẻ truyền thống mà tạo ra một tập hợp kênh mới.” Bình luận nhận định này và đề xuất mô hình phối hợp đa kênh cho một doanh nghiệp bán lẻ truyền thống do anh/chị tự chọn.
+ĐÁP ÁN:
+  – Định hướng: làm rõ luận điểm “quyết định không phải chọn kênh nào mà phối hợp các kênh thế nào” (buổi 1); phân tích lợi thế, hạn chế của từng kênh (cửa hàng vật lý chạm thử được; kênh số đo lường được, phạm vi rộng).
+  – Có thể khai thác: kênh sở hữu – trả phí – kiếm được (buổi 5); website riêng và sàn (buổi 2); đồng bộ tồn kho một nguồn dữ liệu (buổi 10); hạn chế cấu trúc “không chạm thử” và vai trò cửa hàng vật lý trong đổi trả.
+  – Đề xuất phải nêu: phân khúc mục tiêu; vai trò từng kênh theo giai đoạn hành trình; dữ liệu khách hàng được hợp nhất ở đâu; chỉ số đo hiệu quả phối hợp; rủi ro và điều kiện vận hành.
+  – Không có đáp án duy nhất; đánh giá theo chất lượng lập luận và tính nhất quán với lý thuyết.
+
+--------------------------------------------------------------------------------
+CÂU 47 [MO] (Câu mở tổng hợp · Trang phao A4: Trang 8/11 · Đề cương Tr.116)
+ĐỀ BÀI: Đề xuất một ý tưởng kinh doanh thương mại điện tử vốn nhỏ và tự đánh giá ý tưởng đó theo khung năm câu hỏi của Tổng kết học phần.
+ĐÁP ÁN:
+  – Năm câu hỏi: (1) vấn đề thực của ai — cụ thể tới mức chọn được kênh (buổi 5); (2) thu tiền từ đâu — điều kiện mô hình doanh thu có thoả không (buổi 2); (3) giá trị vòng đời ≥ 3 lần chi phí thu hút (buổi 5–6); (4) chức năng tối thiểu nào để bán được đơn đầu tiên (buổi 9); (5) nghĩa vụ pháp lý đặc thù (buổi 8).
+  – Bắt buộc có tính toán LTV và CAC tối đa với giả định ghi rõ; không trả lời được câu 3 là chưa có mô hình kinh doanh.
+  – Có thể tham khảo sáu ý tưởng minh hoạ trong bài giảng (gói đồ dùng định kỳ, đặc sản qua phát trực tiếp, hàng qua sử dụng có kiểm định, xuất khẩu thủ công mỹ nghệ, vận hành gian hàng thuê ngoài, công cụ phân tích phễu) nhưng phải tự phân tích, không chép.
+  – Đánh giá theo: tính cụ thể của vấn đề, tính nhất quán giữa năm câu trả lời, căn cứ định lượng, nhận diện rủi ro chính.
+
+--------------------------------------------------------------------------------
+CÂU 48 [MO] (Câu mở tổng hợp · Trang phao A4: Trang 8/11 · Đề cương Tr.116)
+ĐỀ BÀI: Theo số liệu được dẫn trong Tổng kết học phần, năm 2025 thị trường thương mại điện tử Việt Nam tăng trưởng nhưng tập trung (Shopee khoảng 57,5%, TikTok Shop khoảng 39,6% thị phần bốn sàn lớn), số gian hàng có doanh số giảm khoảng 7%. Phân tích tác động của xu hướng tập trung đối với người bán nhỏ và đề xuất chiến lược thích ứng.
+ĐÁP ÁN:
+  – Định hướng phân tích: cơ chế hiệu ứng mạng và chi phí tuân thủ cố định (buổi 2, 8) làm thị trường tập trung; hệ quả là phí sàn và quảng cáo nội sàn tăng, chi phí thu hút tăng, người bán nhỏ bị sàng lọc.
+  – Chiến lược có thể đề xuất: chọn ngách hẹp có định vị khác biệt chứng minh được; tăng giữ chân để nâng LTV; xây kênh sở hữu song song để giảm phụ thuộc nền tảng; tuân thủ ba luật mới như lợi thế; tận dụng thương mại qua nội dung có kiểm soát.
+  – Lưu ý phương pháp: số liệu do bài giảng dẫn nguồn (Bộ Công Thương, YouNet ECI); khi dùng phải nêu nguồn và lưu ý định nghĩa, phạm vi đo.
+  – Đánh giá theo: lập luận nhân quả rõ, đề xuất gắn với kiến thức học phần, nêu giả định và giới hạn.
+
+--------------------------------------------------------------------------------
+CÂU 49 [MO] (Câu mở tổng hợp · Trang phao A4: Trang 9/11 · Đề cương Tr.117)
+ĐỀ BÀI: “Tuân thủ là năng lực cạnh tranh, không chỉ là chi phí.” Bình luận nhận định này trong bối cảnh ba đạo luật mới có hiệu lực năm 2026.
+ĐÁP ÁN:
+  – Có thể lập luận: chi phí tuân thủ có tính cố định → trở thành rào cản gia nhập, sàng lọc người làm sai; định danh người bán tạo lợi thế cho người bán chính danh; nhiều biện pháp tuân thủ đồng thời tăng chuyển đổi (hiện phí sớm, giảm trường biểu mẫu).
+  – Phản biện cần xem xét: chi phí tuân thủ có thể quá sức với người bán rất nhỏ; tuân thủ đưa vào sau thì chi phí cao hơn nhiều (đường cong chi phí sửa sai buổi 9).
+  – Căn cứ: Luật BVDLCN 91/2025/QH15, Luật TMĐT 122/2025/QH15, Luật ANM 116/2025/QH15; ma trận xếp thứ tự khắc phục (buổi 8).
+  – Đánh giá theo: lập luận hai chiều, ví dụ cụ thể, kết luận có điều kiện.
+
+--------------------------------------------------------------------------------
+CÂU 50 [MO] (Câu mở tổng hợp · Trang phao A4: Trang 9/11 · Đề cương Tr.117)
+ĐỀ BÀI: Đề xuất bộ nguyên tắc vận hành một phiên bán hàng phát trực tiếp “có trách nhiệm” cho một nhà bán hàng, cân bằng giữa hiệu quả bán hàng và quyền lợi người tiêu dùng.
+ĐÁP ÁN:
+  – Nền tảng lý thuyết: sáu cơ chế tạo giá trị của thương mại xã hội và mặt trái (buổi 6); quyền được thông tin, được lựa chọn (buổi 8); vùng xám đạo đức — áp lực thời gian giả, khai thác tâm lý.
+  – Nguyên tắc có thể đề xuất: thông tin đầy đủ về nguồn gốc, thành phần, bảo hành; ưu đãi “giới hạn” phải là giới hạn thật; không nâng giá gốc; công bố rõ nội dung tài trợ; quy trình xử lý câu hỏi về cam kết; chính sách đổi trả rõ; đo doanh thu sau hoàn hàng.
+  – Có thể kiểm tra đề xuất bằng ba câu hỏi: công khai · đổi vai · bền vững.
+  – Đánh giá theo: tính khả thi, căn cứ pháp lý (Luật TMĐT 122/2025/QH15, Luật BVQLNTD 19/2023/QH15), lập luận về rủi ro kinh doanh dài hạn.
+
+--------------------------------------------------------------------------------
+CÂU 51 [MO] (Câu mở tổng hợp · Trang phao A4: Trang 9/11 · Đề cương Tr.117)
+ĐỀ BÀI: Lừa đảo bằng trí tuệ nhân tạo tạo sinh (thư đúng văn phong, giả mạo hình ảnh và giọng nói) đang thay đổi bối cảnh đe doạ. Đề xuất bộ quy trình kiểm soát nội bộ cho một doanh nghiệp thương mại điện tử vừa và nhỏ, cân bằng giữa an toàn và chi phí.
+ĐÁP ÁN:
+  – Định hướng: tiêu chí nhận diện cũ (lỗi chính tả, văn phong) đã vô hiệu → chuyển sang tiêu chí hành vi: kiểm tên miền người gửi, tự gõ địa chỉ, xác minh qua kênh độc lập.
+  – Biện pháp có thể đề xuất: gọi lại theo số đã lưu trong hồ sơ; mật khẩu thoả thuận trước; hai người phê duyệt giao dịch tài chính; xác thực nhiều yếu tố; đào tạo định kỳ; chu kỳ vá lỗi nghiêm trọng tính theo ngày.
+  – Cân nhắc chi phí – rủi ro: áp dụng kiểm soát theo mức giá trị giao dịch (xác thực theo mức rủi ro — buổi 7).
+  – Căn cứ: Luật An ninh mạng 116/2025/QH15 nghiêm cấm dùng AI để giả mạo, lừa đảo. Đánh giá theo: biện pháp khớp cơ chế tấn công, khả thi với nguồn lực doanh nghiệp nhỏ.
+
+--------------------------------------------------------------------------------
+CÂU 52 [MO] (Câu mở tổng hợp · Trang phao A4: Trang 9/11 · Đề cương Tr.118)
+ĐỀ BÀI: Ranh giới giữa cá nhân hoá và xâm phạm quyền riêng tư nằm ở đâu? Trình bày quan điểm của anh/chị về định giá theo hành vi (giá khác nhau theo thiết bị, vị trí) và đề xuất tiêu chí đánh giá.
+ĐÁP ÁN:
+  – Nền tảng: cặp đánh đổi riêng tư – cá nhân hoá (buổi 7); nguyên tắc giới hạn mục đích, minh bạch, tối thiểu hoá (buổi 8); định giá theo hành vi thuộc vùng xám — vấn đề ở tính không minh bạch.
+  – Có thể đề xuất tiêu chí: có cơ sở pháp lý và thông báo không; khách có biết và có lựa chọn không; có gây thiệt hại có hệ thống cho một nhóm không (thiên lệch); kiểm tra công khai · đổi vai · bền vững.
+  – Cần nêu cả lập luận ủng hộ (hiệu quả, phù hợp nhu cầu) và phản đối (bất cân xứng thông tin, mất niềm tin dài hạn).
+  – Đánh giá theo: lập luận cân bằng, có tiêu chí cụ thể, không kết luận cảm tính.
+
+--------------------------------------------------------------------------------
+CÂU 53 [MO] (Câu mở tổng hợp · Trang phao A4: Trang 9/11 · Đề cương Tr.118)
+ĐỀ BÀI: Xây dựng lộ trình ứng dụng trí tuệ nhân tạo trong 24 tháng cho một cửa hàng trực tuyến quy mô vừa. Lộ trình cần nêu thứ tự ứng dụng, điều kiện dữ liệu và cơ chế kiểm soát rủi ro.
+ĐÁP ÁN:
+  – Nguyên tắc: bắt đầu từ ứng dụng có dữ liệu sẵn và rủi ro thấp (sinh nội dung sản phẩm có kiểm duyệt, tối ưu giá thầu); sau đó tới ứng dụng cần dữ liệu tích luỹ (khuyến nghị, dự báo nhu cầu, dự báo LTV); trợ lý hội thoại rủi ro cao làm sau và có giới hạn phạm vi.
+  – Điều kiện dữ liệu: thiết kế ghi nhận sự kiện hành vi từ đầu (quan hệ buổi 3 → 10); chất lượng dữ liệu sạch, đầy đủ, gắn nhãn đúng.
+  – Kiểm soát: bốn rủi ro (chính xác và trách nhiệm, thiên lệch, dữ liệu cá nhân, chi phí ẩn) với biện pháp tương ứng; chỉ số đo hiệu quả từng ứng dụng.
+  – Đánh giá theo: tính tuần tự hợp lý, gắn với dữ liệu thực có, cơ chế đo lường và quản trị rủi ro.
+
+--------------------------------------------------------------------------------
+CÂU 54 [MO] (Câu mở tổng hợp · Trang phao A4: Trang 9/11 · Đề cương Tr.119)
+ĐỀ BÀI: “Giảm phát thải và giảm hoàn hàng là hai mục tiêu trùng nhau về mặt kinh tế.” Phân tích nhận định này và đề xuất các biện pháp thương mại điện tử xanh khả thi cho người bán.
+ĐÁP ÁN:
+  – Định hướng: hoàn hàng tạo chi phí kép (giao đi, trả về, xử lý) đồng thời tạo phát thải; giảm hoàn hàng bằng mô tả chính xác, bảng kích cỡ, ảnh và video (buổi 1, 9, 10) vừa tăng biên lợi nhuận vừa giảm phát thải.
+  – Biện pháp có thể đề xuất: tối ưu bao bì, gom đơn, tối ưu tuyến giao, giao thành công lần đầu, ngưỡng miễn phí vận chuyển hợp lý.
+  – Bối cảnh: phát triển bền vững có trong Luật Thương mại điện tử 2025 (bao bì dùng một lần, tối ưu vận chuyển); định hướng Kế hoạch tổng thể 2026–2030 (xanh).
+  – Đánh giá theo: lập luận kinh tế rõ, biện pháp đo được, nhận diện đánh đổi (ví dụ giao nhanh và gom đơn).
+
+--------------------------------------------------------------------------------
+CÂU 55 [MO] (Câu mở tổng hợp · Trang phao A4: Trang 10/11 · Đề cương Tr.119)
+ĐỀ BÀI: Thanh toán khi nhận hàng (COD) vẫn chiếm tỷ trọng đáng kể ở Việt Nam. Theo anh/chị, người bán nên khuyến khích hay hạn chế COD? Lập luận từ góc độ người bán, người mua và hệ thống.
+ĐÁP ÁN:
+  – Người mua: COD hạ rào cản niềm tin với người bán lạ (thiếu N4 — buổi 1).
+  – Người bán: ba chi phí ẩn — vốn bị chiếm dụng, hoàn hàng (phí giao và phí trả về), chi phí quản trị đối chiếu thu hộ (buổi 4).
+  – Hệ thống: COD đang giảm do thanh toán QR phổ biến; định danh người bán (Luật TMĐT 2025) làm tăng niềm tin, giảm nhu cầu COD.
+  – Phương án trung gian có thể đề xuất: QR mặc định, COD có giới hạn (theo giá trị đơn, theo lịch sử khách), xác nhận đơn trước khi giao. Đánh giá theo lập luận đa chiều và căn cứ định lượng.
+
+--------------------------------------------------------------------------------
+CÂU 56 [MO] (Câu mở tổng hợp · Trang phao A4: Trang 10/11 · Đề cương Tr.119)
+ĐỀ BÀI: Thiết kế hệ chỉ số đo lường ba tầng cho một cửa hàng trực tuyến do anh/chị chọn. Giải thích lựa chọn mô hình quy kết, giới hạn của mô hình đó và cách bù đắp.
+ĐÁP ÁN:
+  – Ba tầng: kết quả kinh doanh (doanh thu, lợi nhuận gộp, LTV, thị phần); hiệu quả (CPA, ROAS, CVR, tỷ lệ mua lặp lại); hoạt động (hiển thị, nhấp, phiên, CTR) — mỗi chỉ số tầng dưới phải nối được tới một chỉ số tầng trên (buổi 6).
+  – Mỗi chỉ số cần cách đo, ngưỡng mục tiêu, ngưỡng dừng đặt trước; loại chỉ số phù phiếm.
+  – Chọn quy kết theo số kênh và độ dài hành trình; nêu kênh bị đánh giá thấp có hệ thống; bù đắp bằng thử nghiệm tăng thêm.
+  – Đánh giá theo: tính nhất quán giữa ba tầng, khả năng ra quyết định từ chỉ số, nhận thức về giới hạn đo lường.
+
+--------------------------------------------------------------------------------
+CÂU 57 [MO] (Câu mở tổng hợp · Trang phao A4: Trang 10/11 · Đề cương Tr.120)
+ĐỀ BÀI: Một doanh nghiệp nhỏ mới khởi nghiệp nên xây website riêng ngay từ đầu hay chỉ bán qua sàn và mạng xã hội? Lập luận theo từng giai đoạn phát triển của doanh nghiệp.
+ĐÁP ÁN:
+  – Yếu tố cần xét: chi phí và năng lực đội ngũ (buổi 9); phụ thuộc nền tảng, không sở hữu dữ liệu (buổi 2, 5); chi phí thu hút tăng do thị trường tập trung (Tổng kết); nghĩa vụ tuân thủ khi tự vận hành website (buổi 8).
+  – Lập luận theo giai đoạn: giai đoạn đầu tận dụng lưu lượng sàn, thương mại xã hội để kiểm chứng nhu cầu; khi có khách mua lặp lại thì xây kênh sở hữu (danh sách thư, website) để giữ chân, nâng LTV; điều kiện đồng bộ tồn kho.
+  – Phản biện khả dĩ: một số ngành hàng (B2B, hàng giá trị cao cần nội dung chuyên sâu) cần website sớm.
+  – Đánh giá theo: lập luận có điều kiện, gắn với số liệu giả định, nêu tiêu chí chuyển giai đoạn.
+
+--------------------------------------------------------------------------------
+CÂU 58 [MO] (Câu mở tổng hợp · Trang phao A4: Trang 10/11 · Đề cương Tr.120)
+ĐỀ BÀI: Phân tích một sự cố rò rỉ dữ liệu khách hàng giả định tại một sàn thương mại điện tử theo các khung đã học: sáu thuộc tính an toàn, công thức rủi ro, quy trình ứng phó bốn giai đoạn và nghĩa vụ pháp lý.
+ĐÁP ÁN:
+  – Tự xây dựng kịch bản giả định (nguồn rò rỉ, loại dữ liệu, số khách bị ảnh hưởng); không dùng tên doanh nghiệp thật nếu không có nguồn công bố chính thức.
+  – Phân tích: thuộc tính nào bị vi phạm (bí mật, có thể cả riêng tư); lỗ hổng nào bị khai thác (lớp nào trong sáu lớp bề mặt tấn công); tác động tới khách và doanh nghiệp.
+  – Ứng phó: bốn giai đoạn, lưu bằng chứng trước khi thay đổi hệ thống; nội dung thông báo (loại dữ liệu, rủi ro cụ thể, việc khách nên làm).
+  – Nghĩa vụ: Luật BVDLCN 91/2025/QH15, Luật ANM 116/2025/QH15, Luật TMĐT 122/2025/QH15 có thể chồng lấn. Biện pháp ngăn tái diễn và bài học về tối thiểu hoá dữ liệu. Đánh giá theo tính đầy đủ và khớp cơ chế.
+
+--------------------------------------------------------------------------------
+CÂU 59 [MO] (Câu mở tổng hợp · Trang phao A4: Trang 10/11 · Đề cương Tr.120)
+ĐỀ BÀI: Chọn một sản phẩm Việt Nam và một thị trường đích cụ thể. Xây dựng kế hoạch thâm nhập thị trường qua kênh số trong 12 tháng.
+ĐÁP ÁN:
+  – Tiêu chí chọn sản phẩm: tỷ lệ giá trị trên khối lượng đủ cao; có điểm khác biệt chứng minh được; đáp ứng tiêu chuẩn nước đích.
+  – Nội dung kế hoạch: định vị lại cho phân khúc nước đích; bản địa hoá (nội dung do người bản địa hiệu đính, phương thức thanh toán phổ biến, niêm yết có biên độ tỷ giá); kênh (sàn lớn ở nước đích trước, kênh riêng sau); logistics (kho nước đích, xử lý hoàn hàng); tuân thủ (nhãn, nhập khẩu, bảo vệ dữ liệu nước đích).
+  – Chỉ số và ngưỡng: CAC, LTV, tỷ lệ hoàn, chi phí logistics mỗi đơn so với lợi nhuận gộp mỗi đơn.
+  – Đánh giá theo: tính khả thi, nhận diện năm rào cản và cách xử lý, giả định nêu rõ (thông tin về quy định của nước đích phải ghi nguồn).
+
+--------------------------------------------------------------------------------
+CÂU 60 [MO] (Câu mở tổng hợp · Trang phao A4: Trang 10/11 · Đề cương Tr.121)
+ĐỀ BÀI: Trong “mười nguyên tắc ra quyết định” của học phần, hãy chọn ba nguyên tắc mà anh/chị cho là quan trọng nhất đối với người làm thương mại điện tử giai đoạn 2026–2030 và lập luận cho lựa chọn đó.
+ĐÁP ÁN:
+  – Mười nguyên tắc: đo lường là lợi thế căn bản; ba đòn bẩy doanh thu độc lập; ưu tiên theo số tuyệt đối; giá trị vòng đời chặn ngân sách; giữ chân có đòn bẩy lớn hơn; an toàn là quy trình liên tục; dữ liệu không lưu không thể mất; đạo đức cao hơn pháp luật; chi phí sửa sai tăng theo giai đoạn; dữ liệu thiếu thì nêu rõ giả định.
+  – Lập luận nên gắn với bối cảnh: chi phí thu hút tăng, người dùng gần bão hoà, ba luật mới 2026, AI phổ cập (buổi 10, Tổng kết).
+  – Mỗi nguyên tắc chọn cần: cơ chế giải thích, ví dụ áp dụng, hệ quả nếu vi phạm.
+  – Không có đáp án đúng duy nhất; đánh giá theo chất lượng lập luận và liên hệ thực tiễn.

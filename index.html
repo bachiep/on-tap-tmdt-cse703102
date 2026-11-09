@@ -190,6 +190,30 @@
           <span>⇄</span> <span class="hide-mobile">Trộn câu</span><span class="show-mobile">Trộn</span>
         </button>
 
+        <!-- Dropdown Làm lại phần này hoặc tất cả -->
+        <div class="reset-dropdown-wrap">
+          <button id="resetMenuBtn" class="btn" title="Làm lại bài: Từng phần hoặc tất cả">
+            <span>🔄</span> <span class="hide-mobile">Làm lại</span><span class="show-mobile">Lại</span> <span style="font-size:10px;">▾</span>
+          </button>
+          <div id="resetDropdown" class="reset-dropdown-menu hidden">
+            <button id="resetSectionBtn" class="reset-dropdown-item" type="button">
+              <span class="reset-item-icon">🔄</span>
+              <div class="reset-item-text">
+                <strong id="resetSectionLabel">Làm lại phần này</strong>
+                <small id="resetSectionSub">Xóa đáp án phần hiện tại để làm lại</small>
+              </div>
+            </button>
+            <div class="reset-dropdown-divider"></div>
+            <button id="resetAllBtn" class="reset-dropdown-item danger" type="button">
+              <span class="reset-item-icon">🗑️</span>
+              <div class="reset-item-text">
+                <strong>Làm lại tất cả (15 buổi)</strong>
+                <small>Xóa sạch toàn bộ kết quả để ôn lại từ đầu</small>
+              </div>
+            </button>
+          </div>
+        </div>
+
         <button id="openMatrixBtn" class="btn" title="Mở bảng lưới toàn bộ câu hỏi">
           <span>🗂️</span> <span class="hide-mobile">Lưới câu</span><span class="show-mobile">Lưới</span>
         </button>
@@ -244,9 +268,12 @@
         <details class="settings-box">
           <summary>⚙️ Quản lý dữ liệu học tập</summary>
           <p style="margin:10px 0 12px;font-size:12px;color:var(--muted);">
-            Tiến độ được lưu an toàn trên trình duyệt của máy tính/điện thoại này. Bạn có thể đặt lại toàn bộ khi muốn ôn tập lại từ đầu.
+            Tiến độ được lưu an toàn trên trình duyệt của máy tính/điện thoại này. Bạn có thể làm lại từng phần hoặc đặt lại toàn bộ khi muốn ôn tập lại từ đầu.
           </p>
-          <button id="reset" class="btn" style="color:var(--red);">🗑️ Xóa toàn bộ dữ liệu & làm lại từ đầu</button>
+          <div style="display:flex;gap:10px;flex-wrap:wrap;">
+            <button id="footerResetSection" class="btn" type="button">🔄 Làm lại phần đang học</button>
+            <button id="reset" class="btn" style="color:var(--red);" type="button">🗑️ Xóa toàn bộ & làm lại từ đầu</button>
+          </div>
         </details>
       </footer>
     </main>

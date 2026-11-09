@@ -6,3 +6,5 @@ test_runner.py
 audit.cjs
 *.tmp
 .DS_Store
+
+.vercel

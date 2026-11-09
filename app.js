@@ -607,6 +607,24 @@ function render() {
     ? '<span>✓</span> <span class="hide-mobile">Đang trộn câu</span><span class="show-mobile">Đang trộn</span>'
     : '<span>⇄</span> <span class="hide-mobile">Trộn câu</span><span class="show-mobile">Trộn</span>';
 
+  const secLabel = $('#resetSectionLabel');
+  const secSub = $('#resetSectionSub');
+  if (secLabel && secSub) {
+    if (session === 'random30') {
+      secLabel.textContent = 'Làm lại đề 30 câu này';
+      secSub.textContent = 'Xóa đáp án 30 câu để kiểm tra lại phản xạ';
+    } else if (session === 'open') {
+      secLabel.textContent = 'Làm lại 15 câu mở';
+      secSub.textContent = 'Xóa câu trả lời 15 câu tự luận tổng hợp';
+    } else if (session === 'all') {
+      secLabel.textContent = 'Làm lại tất cả câu hỏi';
+      secSub.textContent = 'Xóa đáp án toàn bộ 300 câu trắc nghiệm';
+    } else {
+      secLabel.textContent = 'Làm lại Buổi ' + session;
+      secSub.textContent = 'Xóa đáp án các câu của riêng Buổi ' + session;
+    }
+  }
+
   if (!list.length) {
     $('#card').innerHTML = '<div class="empty-state"><h2>Không tìm thấy câu hỏi phù hợp</h2><p>Vui lòng chọn “Tất cả câu hỏi”, đổi buổi học hoặc xóa từ khóa tìm kiếm để tiếp tục.</p></div>';
     $('#navigation').classList.add('hidden');
@@ -1199,16 +1217,83 @@ $('#shuffle').onclick = () => {
   setTimeout(scrollToCard, 10);
 };
 
-$('#reset').onclick = () => {
-  if (confirm('Bạn có chắc muốn xóa toàn bộ kết quả, đánh dấu sao và bài tự luận trên trình duyệt này?')) {
+// RESET SECTION & ALL HANDLERS (USER REQUEST)
+function resetCurrentSection() {
+  const currentItems = base();
+  if (!currentItems || !currentItems.length) return;
+
+  const partName = session === 'random30' 
+    ? 'Đề 30 câu ngẫu nhiên'
+    : session === 'open'
+    ? '15 câu hỏi mở tổng hợp'
+    : session === 'all'
+    ? 'Tất cả câu hỏi'
+    : 'Buổi ' + session;
+
+  const confirmMsg = 'Bạn có chắc muốn xóa kết quả và làm lại ' + partName + ' (' + currentItems.length + ' câu)?\n(Tiến độ các buổi học khác vẫn được giữ nguyên)';
+  if (confirm(confirmMsg)) {
+    currentItems.forEach(q => {
+      if (state.quiz) delete state.quiz[q.id];
+      if (state.flash) delete state.flash[q.id];
+      if (state.essay) delete state.essay[q.id];
+    });
+    currentStreak = 0;
+    persist();
+    rebuild();
+    showToast('🔄 Đã làm mới ' + partName + '! Bạn có thể bắt đầu làm lại.');
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+}
+
+function resetAllProgress() {
+  if (confirm('Bạn có chắc muốn xóa TOÀN BỘ kết quả của tất cả 15 buổi học để làm lại từ đầu?')) {
     state = { quiz: {}, flash: {}, essay: {}, star: {}, notes: {}, maxStreak: 0 };
     currentStreak = 0;
     persist();
     rebuild();
-    showToast('🗑️ Đã xóa toàn bộ dữ liệu học tập.');
-    setTimeout(scrollToCard, 10);
+    showToast('🗑️ Đã xóa toàn bộ tiến độ, bạn có thể làm lại từ đầu!');
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   }
-};
+}
+
+// Reset Dropdown & Buttons
+const resetMenuBtn = $('#resetMenuBtn');
+const resetDropdown = $('#resetDropdown');
+const resetSectionBtn = $('#resetSectionBtn');
+const resetAllBtn = $('#resetAllBtn');
+const footerResetSection = $('#footerResetSection');
+
+if (resetMenuBtn && resetDropdown) {
+  resetMenuBtn.onclick = (e) => {
+    e.stopPropagation();
+    resetDropdown.classList.toggle('hidden');
+  };
+  document.addEventListener('click', (e) => {
+    if (!resetDropdown.contains(e.target) && e.target !== resetMenuBtn) {
+      resetDropdown.classList.add('hidden');
+    }
+  });
+}
+
+if (resetSectionBtn) {
+  resetSectionBtn.onclick = () => {
+    if (resetDropdown) resetDropdown.classList.add('hidden');
+    resetCurrentSection();
+  };
+}
+
+if (resetAllBtn) {
+  resetAllBtn.onclick = () => {
+    if (resetDropdown) resetDropdown.classList.add('hidden');
+    resetAllProgress();
+  };
+}
+
+if (footerResetSection) {
+  footerResetSection.onclick = resetCurrentSection;
+}
+
+$('#reset').onclick = resetAllProgress;
 
 // GLOBAL KEYBOARD SHORTCUTS (USER REQUEST)
 // Keys: A, B, C, D (case-insensitive) or 1, 2, 3, 4 to select options
